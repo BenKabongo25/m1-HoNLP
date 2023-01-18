@@ -1,0 +1,34 @@
+Q:
+
+How to soundproof the Wood Shop?
+
+I hold a small (15qm) Wood Shop  at the basement, where I have the classic power tools like: a miter saw, a bench saw and a wood drill press and some other hand power tools. 
+There is a real issue with the noise, the power tools are too loud and the neighbors are irritated.
+Now I was looking into tools that are silent, but since they are expensive and hard to find, and I think it would be easier to soundproof the whole room or put the tools in a soundproof box.
+My loudest tool has 108db(A) and produces frequencies from 400Hz to 16kHz, for that I have considered using inflammable resistant acoustic foam. But before I start spending money, time and research, I wish to ask first : 
+Have any of you had to soundproof a wood shop? what solution is effective if so?
+
+A:
+
+The advice for a shop is pretty much the same as for any loud activity. There is a lot of research you can do on the internet for music studios, for example, that will apply. So, this is not specific to woodworking1.
+The first question is what is your budget and how much work do you want to do? Ideally you would physically separate the walls from the floor, and the ceiling from the walls. This is a pretty tall order, though.
+The most important thing to do is block as much air movement between the inside and the outside. Then you install sound blocking material between the basement and the rest of the house. The notion is that there is no single magic bullet; the only real solution is mitigation in depth by using multiple sound mitigation techniques together.
+A serious modest approach would be something like:
+
+Clear all your tools from the walls and remove everything covering the walls and ceiling.
+Buy a case or three of acoustic sealant, and fill every crack and hole that allows air movement between the shop and the rest of the world. You cannot overdo this step, and no hole or void is too small to consider.
+Buy lots of sound insulation batts, or hire a firm to install blown or spray insulation into all the voids, making sure to get into every corner and nook.
+Cover with sound block rating wall covering of some sort, making sure to (in most cases) use multiple layers and follow the installation process for overlaps, joins, and things like outlets and light switches.
+Replace all doors and windows if necessary, and replace the air-seal around them.
+
+You will probably have to separate the HVAC systems so the shop has its own heating and cooling, unless the rest of the house is ok with the sound coming through hot or cold air ducts. If you have non-ducted heating/cooling you already have a head-start.
+A non-modest approach is to do all that, but start by building floating stud walls and ceiling that decouples the interior walls from the outside as much as possible, including (ideally) installing a floating floor.
+A cheap-and-cheerful approach is to air-seal as best you can, and then use two layers of drywall, installing acoustically rated batt insulation in any significant voids. Seal the doors and windows (or cover them in semi-permanent baffling) and either put up with sound going through the ducts, or stuff them with some sort of safe baffling while you are in the shop.
+
+1 That being said, I think wood shops are easier for sound management because at least we don't have to deal with as many high-energy low frequencies. This means that full surface separation as discussed is probably not strictly necessary except in the most specific cases.
+
+A:
+
+The answer provided by jdv is excellent advice and addresses sound transmission through air. Plus, as i mentioned in a comment, the mass of masonry walls and the earth will eliminate most sound transmission below grade. There may also be structural transmission to consider. If you have an interior surface that directly contacts the structural wall then sound vibrations will also be absorbed by the interior surface and transmitted through the studs or masonry.  If there is exterior masonry walls, then the mass of the wall should be adequate to absorb shop sound. If it is studs then the sound may be traveling through the structure. The only way to significantly reduce that noise is to provide a second wall surface on the interior that is independent of the exterior wall. It should be have minimum contact with the exterior wall and be filled with insulation to reduce air transmission.
+But something sounds a bit peculiar.  I would expect that conventional wood framing (or masonry) of an exterior wall  should be adequate to eliminate most noise in a short distance from your home.  It sounds like there could be a duct or other opening venting to the outside that is allowing more direct travel for the sound.
+

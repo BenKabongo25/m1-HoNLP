@@ -1,0 +1,20 @@
+Q:
+
+Origin of $\ll$ notation
+
+Vinogradov introduced the notation 
+$$f(x) \ll g(x)$$
+to denote that for some $C>0$, we have $|f(x)|\leqslant C\,g(x)$ for all $x$ under consideration; usually for all $x$ larger than a fixed constant (equivalently $f(x) = O(g(x))$ is used).
+I've also been made aware that this is sometimes used in less formal settings to mean $A$ is "much less than" $B$ ($A\ll B$). My question is, where did this notation come from, and what was it used for first? Did Vinogradov invent it, or was it used in this informal sense prior to that?
+
+A:
+
+Vinogradov likely adapted $\ll$ from Poincare and Borel, who used it for asymptotic series in 1890s (Cajori cites Borel, *Lecons sur les series divergentes", 1901). Physicists used it for vague "much less than" as early as 1918 (Heurlinger's doctoral dissertation Untersuchungen über die Struktur der Bandenspektra). Whether they reinterpreted Poincare's symbol or simply adapted what was typographically available is unclear. Here is the entry on the subject from Cajori's History of Mathematical Notations, v.II, §486:
+
+"The sign $\ll$ was introduced by H. Poincare and by E. Borel in comparing series like: $$u_0+u_1z+u_2z^2+\dots\ll M\left[1+\frac{z}{R^1}+\left(\frac{z}{R^1}\right)^2+\dots\right],$$ where the second series has positive coefficients; the modulus of each
+  coefficient of the first series is less than the corresponding coefficient
+  of the second series. The signs $\ll$ and $\gg$ are also used for "much
+  less than" and "much greater than". Zeitschrift für Physik, Vol. XIII (1923), p. 366 (the sign was used by H. A. Kramers and W. Pauli); Torsten Heurlinger, Untersuchungen über die Struktur der Bandenspectra (Lund, 1918), p. 39". 
+
+The Kramers-Pauli paper is Zur Theorie der Bandenspektren, uses it as a matter of course without comment or explanation. Heurlinger is not cited, but, given the shared topic, they might have inherited the symbol through intermediaries.
+

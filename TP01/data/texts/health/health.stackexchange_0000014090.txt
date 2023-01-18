@@ -1,0 +1,13 @@
+Q:
+
+How often is "X times a day"?
+
+Some pills which say to "take every X hours", and others say to take "X times a day".
+How long should the break be between administrations of pill #2?
+For example, "take 4 times a day" means to take it every 6 hours, or every (24-8)/4 = 4 hours?
+
+A:
+
+4 times a day means those 4 doses should be spread roughly evenly over a 24 hour period, so approximately 6 hours apart. The best way to do this is usually to take a dose right before bed and right after you wake up. Don't worry too much if you sleep for more than 6 hours. Dosing schedules aren't generally down to the minute, as everybody metabolizes drugs differently, so delaying one dose for an hour or two likely won't make a big difference.
+If you were to do the latter dosing schedule you suggested, you'd take pills at 9am, 1pm, 5pm, and 9pm, for example. That gives you a 12-hour lapse between doses, which is fully double the expected interval of 6 hours. That's probably outside the acceptable flexibility in the schedule.
+

@@ -1,0 +1,11 @@
+Q:
+
+In which units did Sir Isaac Newton define force at that time as SI system didn't existed then?
+
+Sir Isaac Newton led the foundation of his famous laws of motion during the 17th Century but at that time SI system hadn't existed. So in which units did he define force? Did he define it in some other units or was later redefined by scientists who made the SI system?
+
+A:
+
+If you read the article On the Concept of Force: How Understanding its History can Improve Physics Teaching you will realise that Newton's ideas about force are not the same as those of today. Indeed Newton thought that there were different types of force.
+No unit of force was proposed until 1873, when the dyne was introduced. Historically, forces were first quantitatively investigated in conditions of static equilibrium where several forces cancelled each other out. The strength of any force was expressed in terms of an equivalent gravitational attraction, with  weights or masses measured in grains.
+

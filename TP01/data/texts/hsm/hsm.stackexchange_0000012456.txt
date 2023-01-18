@@ -1,0 +1,19 @@
+Q:
+
+Has anyone explored Ptolemy's epicycles as an early form of Fourier analysis?
+
+Whilst researching science in the ancient world, I came across an observation, which unfortunately I did not make a note of, and so cannot credit, that Ptolemy's epicycles were an early form of Fourier analysis. This made immediate sense to me. After all, we know that smooth functions can be arbitrarily well approximated by Fourier series. Hence any motion can also be.
+Has anyone actually made a study of Ptolemy's epicycles from this angle?
+
+A:
+
+As @Andrei Kopylov noticed, epicycle theory is not the theory of Fourier series of a periodic function. Still this is called (generalized) Fourier analysis. Such functions are called almost periodic or quasi-periodic, and they expand into generalized Fourier series
+of the form
+$$\sum c_k e^{i\lambda_k t},$$
+with arbitrary real $\lambda_k$, which is also called a (generalized) Fourier series. From the modern point of view such series occupy an intermediate position between the ordinary Fourier series and Fourier integrals. But the general idea is the same: to represent a motion as a superposition of uniform circular motions, and the idea was clearly stated for the first time in ancient Greece.
+Mathematical theory of such series was systematically developed only in 20 century
+(H. Bohr, H. Weyl, N. Wiener, ..., A. Kolmogorov, V. Arnold...).
+A historical survey can be found here:
+Quasi periodic motions from Hipparchus to Kolmogorov
+Remark. In the earliest models of Apollonius and Ptolemy the periods were commensurable. The first person who clearly realized that the motions of planets have to be modeled with non-commensurable periods was Nicole Oresme (1320-1382).
+

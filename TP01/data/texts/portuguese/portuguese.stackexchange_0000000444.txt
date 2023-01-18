@@ -1,0 +1,39 @@
+Q:
+
+How do I know how to pronounce an "exa-" prefix (e.g. hexágono, exabyte, exame)?
+
+According to thefreedictionary, Numerical Prefixes seem to have come from Latin or Greek, but in Portuguese if you read "exa" it should sound like an esha (e.g. "oxalá" is pronounced as oshalah). Notice that the x in Portuguese seems to only have the gz sound in these cases (when there is an "exa" prefix, not when it belongs to the word itself, as in "exame"). 
+However, Portuguese people pronounce "exa" as English people pronounce "exa", which has the exact same sound.
+Therefore, why the prefix wasn't changed to the letters that most closely resemble it's real sound in Portuguese: ècsa or egza?
+Examples:
+
+exabyte could be written in Portuguese as écsabaite or égzabaite
+hexagon could be written as egzágono
+exame could be written as ezame (notice that there is no "exa" prefix)
+exa could be egza
+
+A:
+
+Phonetics
+Your assumption about the expected regular sound of x is wrong.
+We have many different sounds for x in Portuguese:
+
+z (/z/) - "exame", same as zebra in English;
+cs (/ks/) - "táxi", same as taxi in English;
+ch (/ʃ/) - "deixa", same as geisha in English;
+ss (/s/) - "máximo", same as massing in English;
+
+Invalid alternative spellings
+You could not write écsabaite, egzágono or egza because "ec", "csa", "eg", or "gza" are not valid syllables in Portuguese.
+Those words cannot be split into valid syllables.
+
+A:
+
+It seems to me your assumption that 
+
+in Portuguese if you read "exa" it should sound like an esha (e.g.
+  "oxalá" is pronounced as oshalah).
+
+isn't correct. I can think of a few words containing exa that are pronounced the same way as hexágono, like exato (and its variants like exatamente, exatidão), examinar, exalar (the free dictionary has no entry for that word, only for exalar cheiro).
+Perhaps a more adequate question would be "How do I know how to pronounce exa- prefix?".
+

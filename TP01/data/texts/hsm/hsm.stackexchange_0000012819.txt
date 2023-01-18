@@ -1,0 +1,22 @@
+Q:
+
+Did the 1800 Gregorian Lunar Correction Motivate Gauss' Computus Algorithm?
+
+When the Gregorian calendar was implemented in 1582, one of its adjustments was the lunar correction---to increase the epact by 1 eight times within a span of 2500 years; specifically, seven times after each interval of 300 years followed by an increment of 1 after 400 more years---thus completing the 2500 year cycle.
+An epact is any integer between 0 and 29 which represents the phase of the moon on January 1st of a given year. Knowing this, one can then calculate the date of the ecclesiastical full moon---whence, the date of Easter.
+The first Gregorian lunar correction occurred in the year 1800---which was also the year in which Gauss produced his celebrated algorithm for calculating the date of Easter.
+MY QUESTION IS:  Does anyone know if this was (or may have been) the motivating reason why Gauss produced the algorithm when he did. This, as well as any other factual details as to the motivation underlying his famous algorithm is appreciated.
+
+A:
+
+The motivation for producing the algorithm was for a convenient way of calculating Easter by arithmetical methods, without requiring reference to extensive tables which was the established method at the time.
+In that era, the reproduction of printed material was expensive, and paper itself was considerably more expensive than today. The church, at least at the time of the earlier Gregorian reform, had also prohibited the production of such tables without a license, apparently to avoid the propagation of errors by careless publishers (a reasonable fear, given the confusion which not only preceded the Julian reform in 45BC, but followed for many decades after).
+Informal reproduction of tables by hand for personal use, would also have been labour-intensive and error-prone, and asking for access may possibly have raised eyebrows amongst the clergy who held the master copies of such tables produced under licence from the church, and they may have viewed the knowledge in the tables as rightfully the property of the church.
+As an aside, when the British finally adopted the Gregorian reforms commencing in 1752, a tabular calculation (which differed in its mechanical steps from how the Catholic Church performed the calculation, but produced the same results) was required to be published publicly in prayer books.
+The obvious function of this British approach was to disseminate knowledge of the calendar change throughout society, but (in conjunction with the Catholic Church's attitude to licensing reproduction of tables) it also suggests that hitherto it may not have been the established practice of the church to make such comprehensive information about the calendar easily and publicly available to the laity. Even then, the British tabular calculation covers more than a dozen printed pages, and is not easy to apply in my experience.
+So reducing it to an algorithm with an economical number of sequential steps, and in which the essential elements of the calculation could be described and verified briefly (covering maybe two dozen lines of free text, instead of exceeding a dozen pages of typeset tables), could be seen as a real boon for ease of use and reproduction.
+In terms of broadly explaining the timing of Gauss's devising of the algorithm, it should be noted that the upcoming application of the first lunar correction could well have invalidated any existing tables to which people had been referring, and that probably caught Gauss's attention.
+Mathematics had also been developing, and applications in commerce meant that many more people in society had a familiarity with arithmetic, so it was feasible to devise and publish such an algorithm and it have some social usefulness.
+I believe Gauss did in fact make an error in his first publishing of the algorithm, confirming why the church was itself highly conservative about such matters, and he was forced to publish a second corrected version.
+It's not actually clear how widely the algorithm was employed for any practical purpose in Gauss's time however, as opposed to being an intellectual curiosity. I imagine those compiling calendars and almanacs for widespread public consumption (something that only really became common in the 19th century) would often have preferred to rely on the tabular method which carried the sanction of authority, and most people with a need for the information would then have referred to such calendars and almanacs rather than performing their own calculations.
+

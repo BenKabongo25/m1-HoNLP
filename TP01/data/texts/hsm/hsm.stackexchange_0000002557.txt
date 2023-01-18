@@ -1,0 +1,23 @@
+Q:
+
+Why did the ancients believe celestial matter was of a different type than terrestrial matter?
+
+Why did the ancients believe celestial matter is of a totally different type than terrestrial matter?
+From a footnote in Christopher A. Decaen's The Thomist 68 (2004): 375-429 article "Aristotle's Aether and Contemporary Science:"
+
+Emphasizing the dialectical character of these arguments for aether, St. Thomas notes that although all the evidence suggests that the heavenly bodies and their motions are incorruptible, it remains a possibility that we have not observed them long enough (I De Caelo, lect. 7, nn. 5-6). Aristotle himself does not try to show that the Earth is immobile at the center of the universe until De Caelo, 2.13-14, and St. Thomas points out that until this issue is settled it is possible that the Earth, not the heavens, is moving (II De Caelo, lect. 11, n. 2). While Aristotle could not be accused of circular reasoning here, since the later arguments against the Earth's mobility do not appear to rest on the assumption that the heaven is a different kind of matter, nevertheless these arguments are not demonstrative.
+
+Thus, one argument "that the heavenly bodies and their motions are incorruptible" is the uniformity and constancy of their apparent motions over long periods of time.
+Did ancient astronomers advance any other arguments "that the heavenly bodies and their motions are incorruptible"?
+A plausible argument, which I don't know if any ancient astronomers have made, is that astronomy's objects of study are so far removed from the senses; thus, why would they be akin to touchable matter?
+
+A:
+
+One argument is that terrestrial objects are made up of the four elements earth, water, air, fire, and out of these the first two are "heavy" elements whose natural motion is rectilinear motion toward the center of the universe, while the latter two are "light" elements whose natural motion is rectilinear motion upwards. The natural motion of the heavenly bodies, on the other hand, is evidently circular. Therefore they are unlike any terrestrial matter. If they were made of stone they would fall down, and if they were made of fire they would fly away. There is a discussion more or less to this effect in Aristotle, De Caelo I.2.
+
+A:
+
+It's difficult for us who have learned that the laws of physics are constant for all time and space to put ourselves in the minds of "the ancients". But all the reading I've done in this area, of the classical Greeks and the early, middle and late Middle Ages, indicates that they had absolutely no reason to believe that the sky had the same laws as the Earth. The idea of unified physics was unknown. Even two hundred years ago, anyone who claimed that electricity, magnetism and light were the "same stuff" would not have been believed.
+More importantly, the ancient Greeks strictly split physics and astronomy into mutually exclusive subjects. The Heath book (in Dover Publications) about "Greek Astronomy" contains passages which scold astronomers for going outside their job of making numerical calculations to speculate on the actual nature of what they were describing numerically. So all speculations about the nature of things were non-numerical. So they never got to the point that Newton did, where he showed that the numbers for describing terrestrial and extra-terrestrial physics were a near-perfect match. It was this numerical match in the gravity equations which finally unified sky physics with Earth physics. And even then, most people found this difficult to accept. It is only because we are taught the modern viewpoint in school that we find it difficult to see how odd it used to be to think of earth and sky as a combined system obeying the same laws.
+So the answer to your question is that it is the wrong question. The "correct" question is when and how did people get the idea that a single set of physical laws governs both Earth and sky. And the answer to that is that the calculations of astronomers finally led to Newton demonstrating that apples and moons obey the same laws. That clinched it!
+

@@ -1,0 +1,19 @@
+Q:
+
+Can I make a dado blade set out of multiple regular blades?
+
+Lets say, for argument sake, that I have 2 or 3 10" blades for my table saw. That would give me just under 3/8 inches, when all mounted together, which I could use to make dadoes. 
+With what I have available this would be easier than constantly stopping my saw to adjust my fence to enlarge my dadoes. 
+I could easily see this being a bad idea since the blade kerfs could touch while the saw is operating. Also sawdust might get stuck between the blades. Has anyone tried this before?
+
+A:
+
+There's another factor you're not considering: torque requirements. There's a reason the majority of dado sets are 6" or 8" in diameter. Most table saws won't have the power to run a 10" set. A 10" set will require 25% more torque than an 8" set, and 67% more torque than a 6" set.
+Not surprisingly, Matthias over at Woodgears has written an article about doing more or less the same thing you're proposing. Except he solves the torque problem by using multiple 7-1/4" blades.
+
+A:
+
+Instead of making a dado blade you can instead use a sled and then move the workpiece side to side on that to enlarge the dado. Make the outer cuts first and then you have a reference for where the blade should go; the middle cuts aren't that important to get accurate.
+Or set the fence for the left most cut and clamp a piece of wood the with the same thickness of as the width of the desired dado minus the kerf of the blade.
+You make the cut and then remove the block on the fence and cut again. then between those positions you can cut repeatedly and clean up with a chisel.
+

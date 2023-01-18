@@ -1,0 +1,27 @@
+Q:
+
+Using a ROS custom message type across machines/hosts
+
+I am unable to use a custom ROS message type on machine B that I have created on machine A.
+Machine A:
+
+runs roscore.
+has the custom message code as a ROS package.
+has sourced the setup.bash of the package.
+runs rostopic pub /test_topic my_custom_msg test_value
+
+Machine B:
+
+when I run: rostopic list, I do see the topic I am publishing to on machine A ("/test_topic").
+when I run: runmsg list, I DO NOT see the custom message type I am looking for (the one, my topic is using: "my_custom_msg")
+
+When I do these things locally, means all on machine A, everything works as expected: I am publishing a test message using my custom message type and with rostopic echo I can even successfully subscribe to it with getting all the messages that are sent displayed correctly.
+So, what am I missing in order to use my custom message from machine A also on machine B?
+Please, I really need help on that!
+
+A:
+
+I solved the problem!
+The solution is to simply have the custom message definition on all machines where you'd want to use it.
+This might be most comfortable if the custom message is realized as a separate ROS package, because then it's easier to distribute it among different machines.
+

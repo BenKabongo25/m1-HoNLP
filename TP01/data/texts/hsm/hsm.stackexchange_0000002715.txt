@@ -1,0 +1,22 @@
+Q:
+
+What are the uses and the origin of the constant $e$?
+
+It was to my understanding that the constant $e$ came about as a result of simplifying the differentiation of an exponential. 
+For example, the derivative of $2^x$ is $2^x \cdot \ln 2$; for $3^x$ it's $3^x \cdot \ln 3$ etc. and essentially a number was required such that the natural logarithm at the end would equal to 1. Such a number would be called $e$. At least, that's how I thought it originated. 
+I didn't realize that the expression $\ln$ required $e$ as a base. Furthermore, to differentiate exponentials like $2^x$ and $3^x$ you need to have some knowledge that $\frac {d(e^{cx})} {dx} = ce^{cx}$ (as you bring $2^x$ in terms of $e$), and bringing it in terms of any other base like $10$, would essentially be putting you back to square one. 
+So essentially, it seems like $e$  goes back much further than I thought. 
+I was just wondering on where the idea of natural logarithms came to be and why, and whether the knowledge of the derivative of $e$ dates back further than the derivative of other exponents.
+
+A:
+
+Constant $e$ (but not the name) appeared long before any differentiation or exponential function were invented. It probably appears for the first time in the work on Napier on the logarithms. His logarithms are (equivalent to, more or less)
+ the natural logarithms, and the old name of the constant was
+the "base of the natural logarithms". For practical use, natural logarithms were soon displaced with logarithms based on $10$.
+Formal definition, and modern notation of the constant and of the function $e^x$
+are due to Euler, and it was called sometimes "Euler's constant", but now this usage is out of date because there is another famous constant which is called
+the "Euler (Masceroni) constant" and denoted by $\gamma$.
+The constant $e$ was discovered because it is indeed the base of "natural" logarithms.
+You may look here Which came first, the natural logarithm or the base of the natural logarithm? for more detail on
+Napier and natural logarithms.
+

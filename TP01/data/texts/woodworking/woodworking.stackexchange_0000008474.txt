@@ -1,0 +1,10 @@
+Q:
+
+Biesemeyer style fence moves when locking it down
+
+My Grizzly table saw has a Biesemeyer style fence, When I set up and measure for a cut, as soon as I start tightening up the lock lever the fence moves to the right. If I leave the lock in this position and tap the fence hard back to the proper place and continue locking the lever it doesn't move. Anyone know a solution to this problem?
+
+A:
+
+I have a Grizzly tablesaw with the same fence type. I find that when I adjust the fence it is not necessarily square when I move it to the desired dimension. I have to tighten the fence in place to get a fully accurate parallel setting for the fence and blade. Once I have set and unset the fence I can adjust it small amounts without appreciable changes in the angle. Could this be what you are experiencing?
+

@@ -1,0 +1,20 @@
+Q:
+
+Is bmi a good indicator of health
+
+My BMI is 30.4  and it says I am obese. But I dont look obese. One doctor was surprised at my high BMI value. She said maybe I have high bone density or something. So my questions are:
+
+Does a high BMI always indicate bad health?
+Is it bad to have higher bone density( or high "flesh" density)?
+
+A:
+
+BMI is absolutely NOT a good indicator of health. At least not on its own.
+It is made up of two measurements only: height and weight. Height is a stable property, and a person cannot do anything about it (nothing physiological and permanent, at any rate). Body weight, however, is comprised of different types of tissues in the body, most notably fat and muscle tissues (and let us not forget that ~60% of our body weight is water...).
+Growth of either type of tissue adds mass to the body, which means that your weight increases by the same amount whether you develop muscles or build fat tissues through overeating (mass is mass for both types of tissues, volume is not). Therefore, it is entirely possible for two people of the same height to have the same weight and therefore the same BMI value, even though one is fat and the other is well-muscled. Your body weight does not tell you if you have more fat than muscle or vice versa. (see also this section in the Wikipedia entry).
+Of course, being overweight may lead to adverse health issues, and being fit and physically active is considered protective against such issues (see WHO page about obesity and overweight). The point is that BMI score does not tell you if you are the former or the latter, it only gives you some estimation of the ratio between your height and weight and therefore should not be used alone for estimation (just like you say your doctor did).
+So why do we STILL use BMI in a health-related context?
+The main reason is probably that it very convenient and straightforward. Only two easily-measured values, which a person usually knows at any time. Thus, it is very available. This also makes it very popular, in the sense that people can talk about it outside of the medical context (i.e. not only when talking to a healthcare professional). Obviously historical reasons play a small part also.
+There are some variations and alternatives to make better use of BMI, see here.
+See also this nice article from The Independet about the subject.
+

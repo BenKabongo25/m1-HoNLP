@@ -1,0 +1,24 @@
+Q:
+
+How to sand down wood with metal staple ends?
+
+So I have a situation that comes up all the time working with furniture. a beam cracks and needs to be replaced. What is holding it in place is a joint secured by a few staples. Pulling those staples out is usually a lost cause because they are long and the joint is small (the one in the picture is 1.5 inches by 1 inch with 1/2 an inch of wood left under). Any serious pulling will do too much damage to wood before you get them out.
+So I cut them off with a multitool. Take a small hammer to get them deep enough that the surface is flat (ish) and use epoxy to compensate for whatever uneven surface this produces to secure a new beam in it's place.
+Today I was thinking is there an actual decent way to sand this part down? I do have access to a multitool, dremel, and a few sanders. If you had to smooth it out to glue in a new beam how would you approach it?
+I do have a grinder but I don't think it's a good approach here especially given how little clearance there is.
+Thank you.
+
+A:
+
+There are different ways of approaching the problem of remaining staples and where feasible, and where it doesn't do further damage to the wood, it is often worth taking the time to prise or carefully lever them out1. With some recent practice doing this quite a bit (while reclaiming wood from old furniture) I can say you do get much better at it with some practice and experience, however, it isn't always necessary or desirable to do so and there's never a guarantee you'll get staples out in one piece.
+Where speed or necessity dictate that the staple (or a nail for that matter) remain in place it's probably best to do basically what you're already doing: tap them flush with a hammer, or a little below flush using a nail set, and just keep going.
+
+If you had to smooth it out to glue in a new beam how would you approach it?
+
+Use a carbide scraper rather than sanding as the primary means to remove most or all of the glue residue. A chisel or two dedicated to this purpose can also be very useful for chipping or paring off old glue2.
+Try heating the glue residue with a heat gun to see if this helps make removal easier; sometimes it is just easier to chip away and scrape hard, crystalline glue residue than if it's gummy/rubbery after heating, but one needs to test it to see.
+Use construction adhesive or epoxy to glue the joint, saving a step by not having to do any filling of gaps or irregularities.
+
+1 Although it seems like an abuse of the tool slot-head screwdrivers make excellent levering tools for this since they're typically tempered soft enough that they won't break; just dedicate a couple to this job. A further good trick here is to lever against the blade of a putty knife or over a card scraper, so there's no chance of denting the wood.
+2 Some woodworkers and furniture restorers keep 'beater' chisels around for this type of job, so it's no big deal if (when LOL) you run them into a bit of metal and chip or fold over the edge.
+

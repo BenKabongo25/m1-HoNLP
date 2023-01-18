@@ -1,0 +1,27 @@
+Q:
+
+Is there any example of a long-standing mathematical conjecture whose resolution did not require advanced knowledge?
+
+Famous conjectures whose solutions took decades or centuries were usually resolved with the help of sophisticated theories and techniques unknown at the time the conjecture was first claimed. Is there any example where mathematicians didn't see a solution that after the fact was recognized as simple, basic or not very elaborated but people failed to see for a long time?
+
+A:
+
+Sylvester's line problem (1893) was to prove that there exists no finite configuration of points in real projective plane such that every line through
+two points actually contains at least 3 points, unless all points are on the same line. Sylvester himself found such a configuration in the complex projective plane.
+This problem was quite famous, and was considered very difficult:
+people compared its difficulty with the 4-color problem.
+It was solved in 1944 by Grunwald, and a simple solution was obtained by Kelly in 1948. This solution occupies less than 1 page, and can be understood by any
+high school student.
+Edit. Another somewhat similar example is "Gehring's problem on linked curves" described in my answer to: this question.
+Second edit. The so called BMV conjecture was proposed in 1975, a lot of sophisticated mathematics was used in attempts to prove it. It was proved by H. Stahl in 2011, and then I simplified his proof to 6 pages using nothing that was not well-known in 1900.
+
+A:
+
+Hanna Neumann conjecture was open for 40+ years and was solved in 2011 by relatively elementary methods independently and almost simultaneously by Friedman and Mineyev. The existing proofs actually proved the strengthened Hanna Neumann conjecture formulated in 1990 by Walter Neumann. All tools used in Mineyev's proof certainly existed in 1990 and much earlier.
+Just this year the 80 years old Kaplansky unit conjecture was disproved by Giles Gardam, also by quite elementary methods.
+
+A:
+
+Tiling of the plane by pentagons.
+After the problem was discussed in Martin Gardner's "Mathematical Games" column in Scientific American magazine of July 1975, Marjorie Rice (an amateur mathematician) discovered four new examples.
+

@@ -1,0 +1,51 @@
+Q:
+
+Difficulty comprehending and remembering text
+
+I am a full grown adult, 26 years in age. I work as a software developer, which requires I do a lot of reading. I am also trying to go through additional schooling, meaning even more reading.
+I admittedly can't recall if this is a problem I have been having recently, or have always had, but I feel like recently I have been having a lot of trouble comprehending text. I often have to make the text much larger not because the words are unreadable, but because it seems like not having so many surrounding words helps. I often find that I have to read things several times over in order to grasp what I am reading as well.
+I would say that my attention span seems quite short as well, it is very difficult for me to concentrate. I can try and do something sometimes for a couple hours, and continuously get distracted by anything and everything.
+Where does someone begin to get help finding out or a diagnosis if anything is wrong with them when they doubt their memory like this?
+
+A:
+
+You start with your doctor. You can also learn about how memory is made from reading new material.
+No one can answer you over the internet regarding your particular problem; a neurologist would be able to test you for serious health problems regarding your memory, ability to concentrate, etc. But a few general guidelines can be given that might help those young, healthy people who feel they have mentally "slowed down".
+People of all ages can have problems with their thyroid gland. Virtually every cell in your body is dependent on this master gland's product. Both hypothryoidism and hyperthyroidism can affect thinking, from subtly to profoundly.[1]  If your diet is deficient in any way, tests for that can be done as well.
+You are very young for early onset Alzheimer's & Dementia, but you can be tested for that as well. (The likelihood of having such a cognitive impairment with no other symptoms whatsoever - and without anyone else noticing it - are small.)
+Many, many people worry about their ability to concentrate. I remember feeling mentally sluggish enough decades ago to take the then much-touted herbal supplement ginko biloba (it hasn't been shown to do anything; don't waste your money.) The point is, that was three decades ago, I was young, concerned, and in a demanding profession, and I'm fine.
+Cognitive science has given us some good information about learning; maybe this will help people identify when memory problems are "normal". Here, I'll deal mainly with reading, concentration, and learning together. And since it might all be new to you, you will very likely need to read it more than once.
+Cognitive load theory and schema (learning) theory[2][3] go hand in hand in learning. Schemas are frameworks of information (imagine an empty skyscraper in your mind; you want to fill those rooms with what each needs to work and communicate with other rooms, so that in the end, you'll have a pretty-well functioning skyscraper with communication between all the departments.)
+Schemas start as very basic ("This is a cell") and become more complex and facile ("NADH-Q oxidoreductase, Q-cytochrome c oxidoreductase, and cytochrome c oxidase are mitochondrial transmembranous enzyme complexes responsible for oxidative phosphorylation, etc.") Schemas allow (and are the basic unit of) Long Term Memory (LTM). To learn something, we need a framework ("cell") into which we can stick a fact before we can remember it for more than a very few minutes. (Do you think you can remember what you just read about "mitochondrial transmembranous enzyme complexes"? I highly doubt it.)
+The more we know about something (the better our schemas are), the more easily we learn. Working memory (WM) allows us to process what we are exposed to and place it into a schema so that we can remember it. Like a computer, we have limited working memory (processing ability) available to us at any given time. Efficient processing results in placing material into a schema which then facilitates Long Term Memory (LTM). Efficient processing -> Long Term Memory (LTM).
+
+Inefficient Processing (IP) -> "What Did I Just Read?" (I know I read it, I know it was in a language I understand, I understood it, but I can't remember what it said.) IP blocks schema identification which then blocks LTM. Failed schema identification means leads to inability to use information.
+
+Efficient processing (EP) -> "OK, That Makes Sense; What's Next?" (This relates to things I know; how does it relate to things I'm about to be exposed to?) EP allows schema identification which then allows LTM.
+
+Where does cognitive load come in? Cognitive Load takes up processing speed (reducing working memory). If cognitive load is great enough, all working memory is used up, and we will be unable to identify/form a schema.
+There are several types of Cognitive load:
+
+intrinsic (how complex is the information?)
+extrinsic/ineffective (a bunch of things including distractions, emotionally demanding states [stress, anxiety, even the anxiety you feel when you see something new], and especially the way in which material is presented, i.e. does it induce splitting of attention? etc.)
+germane (what's left over to actually form schemas). They are (kind of) additive. Good schemas reduce cognitive load (increasing working memory).
+
+They are (kind of) additive. Good schemas reduce cognitive load thereby increasing working memory.
+If you are reading at your limit of working memory, one final additional 'load' (resulting in cognitive overload) will make you unable to remember what you have just/will immediately read.
+Because cognitive overload does not disappear immediately upon reduction of load, you need a few moments to experience reduced load before you regain working memory.
+An example: you read something while at the very edge of working memory. You realize that you have not remembered what you read, so you decrease attention splits (you commit to reread with intent.) Because you need a few moments of reduced load before your second reading, it might not sink in (now you become concerned, further increasing cognitive load), whereas if you got up, sipped water, and sat down again, you might have enough recovery time to regain working memory.
+In an interview with Felipe De Brigard, PhD of the Center for Cognitive Neuroscience at Duke University, He emphasizes the importance of good sleep and giving learning tasks one's full attention:
+
+I also like to highlight the importance of attending to the information we want to encode. In today's world, people love to multitask. But, unfortunately, multitasking is very detrimental to memory consolidation. Attention and working memory are of the essence for information to be encoded. If you divide your attention between two events, you fail to fully encode either of them; at best, you end up half-encoding both of them.
+
+A very minor example of cognitive overload: if 100 people write which or else or other word you're familiar with 30 times in one minute, ~70% will begin to doubt that it is a real word. This is because of the increase of extrinsic load resulting in cognitive overload.
+You might pay attention when your mind starts to not absorb material to see if anything like this is going on (How well is the material presented? Am I experiencing distractions ("not having so many surrounding words helps")? Am I feeling stressed? Does a short break/turning off the music/etc. help? Try reading something undemanding (a line in a recipe  book if you like cooking, or a few lines from a favorite book you've read a few times. Is your memory better with this more familiar and less working-memory-requiring information?)
+The linked site presents different models of presenting information that promotes schema formation, identification and processing in different situations, and links to further work.
+1 Thyroid hormones, learning and memory.
+2 COGNITIVE LOAD THEORY, LEARNING DIFFICULTY, AND INSTRUCTIONAL  DESIGN
+3 Schema Theory and Cognitive Load Theory
+General references
+Mild cognitive impairment
+Mild Cognitive Impairment: Clinical Characterization and Outcome
+Younger/Early Onset Alzheimer's and Dementia
+

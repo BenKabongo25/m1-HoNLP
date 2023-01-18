@@ -1,0 +1,18 @@
+Q:
+
+Alternative to ROS?
+
+This might be a tricky question, but having dug in deep with ROS I am noticing the complexity that one has to deal with. 
+Simple Arduino programming is much simpler but of course can’t do many useful things. No threading, IPC, and many many more. To be clear, I am not planning on using an Arduino, I am just using it as the extreme end point of a spectrum.
+So my question is, is there another package or library or framework that does some of the things that ROS does but perhaps not at the level of sophistication?
+Additional
+Thanks to the responses so far, and the feedback. I've added below and updated above.
+As an example application, let's say an experimental (i.e I am not trying to build a commercial product - yet) mobile robot, with a depth camera, Lidar, and wheels, that can navigate indoors and be controlled over WiFi. It would likely include slam navigation and/or fiducials. Obviously I am OK with buying the hardware or the hardware components and doing a lot of programming. I would prefer something other than C++ but that's not a strict requirement.
+
+A:
+
+I think you are getting confused between the basic ROS possibilities and some more advanced libraries which are integrated but do not need to be used by users without 'advanced' requirements. If you find it too difficult most likely those are functionalities which are not necessary for your project.
+That being said, ROS is a middleware that makes the glue between several modular pieces of software by providing interfaces and taking care of communication.
+There exist other middlewares for robotics like YARP, POCOLIBS, OROCOS,  ROCK (but there are many more). Some are targeted more for real-time, some more with specificity target at their original application.
+If you want to program in a middleware independent way, you can look into genom3, which is an additional abstraction layer allowing to choose middleware at compilation time. 
+

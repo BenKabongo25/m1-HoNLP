@@ -1,0 +1,14 @@
+Q:
+
+Are there any anonymous contributions to mathematics that had a great impact?
+
+Are there any examples of mathematical ideas being communicated in an anonymous manner that had a substantial impact on mathematics at the time. It seems to me that it is very rare for an author to not take credit for their work, rarer still for it to have a great impact.
+
+A:
+
+LINK
+
+The t-statistic was introduced in 1908 by William Sealy Gosset, a chemist working for the Guinness brewery in Dublin, Ireland... The t-test work was submitted to and accepted in the journal Biometrika and published in 1908. Company policy at Guinness forbade its chemists from publishing their findings, so Gosset published his statistical work under the pseudonym "Student".
+
+Of course eventually the secret came out of the bag.
+

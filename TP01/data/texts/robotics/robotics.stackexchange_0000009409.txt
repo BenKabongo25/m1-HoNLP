@@ -1,0 +1,14 @@
+Q:
+
+Why would a drone need a magnetometer? Are an accelerometer and a gyroscope not sufficient?
+
+Why would a drone need a magnetometer? What would the drone do with this information? I think it would be to tell direction, but why would it need this if it has an accelerometer and a gyroscope?
+
+A:
+
+The main difference between accelerometer and gyroscope vs magnetometer is that first two give only relative information - you may calculate heading relative to your starting position, but you won't have any idea how this heading relates to world directions. 
+What's more, as both gyroscope and accelerometer give you only accelerations values, calculation of pose and heading basing on their readings is incremental. That means that pose estimation error increases over time. Magenetometer can be used to correct these data.
+Edit:
+As Jakob stated in the comment, accelerometer can also be used to estimate pose (roll and pitch angles), but only when your drone doesn't accelerate and you measure gravity only. When drone accelerates, you won't know for sure how much of the acceleration comes from its movement and how much from gravity force. 
+Generally, more sensors let you account for errors more easily and make pose estimation more accurate. If you want more information, "sensor fusion' is a good keyword to start. Also this question on Kalman filter is worth reading.
+

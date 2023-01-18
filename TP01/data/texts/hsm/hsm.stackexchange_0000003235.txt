@@ -1,0 +1,17 @@
+Q:
+
+Who said $\pi$ is a constant since it is not even a real number?
+
+EDIT: (130116) I don't mean it is complex or imaginary nor it is negative also, I tried hard to conceive it on the real line number (positive X-axis), by obvious means, a little idea came to me?, "every time you locate it between two digits, enlarge your number line say 10 times (in base 10 counting)", in order to locate it more clearly, after many finite digits I got tired, and also noticed that my number line is becoming longer than our milky way galaxy, then I simply realized I will never get it on our number line, because simply it is not there on our number line even at infinity?, it is a kind of distinct  infinity that is not there?, it is simply an "illusion"      
+It is by definition $\pi$ is a ratio of circumstance to diameter of a circle, this was defined thousands of years back where the concept of numbers may had been restricted mainly on rational numbers, they could approximate it to few digits, and since then with the help of supercomputers nowadays it was approximated to many trillion digits, and we all know that $\pi$ never ends (being irrational number that is impossible to construct), it is always a ratio of two integers say $n/m$, where both $n$ & $m$ don't exist, then how can we consider it as a constant?
+It is rather a non existing number on our real number line, because first it is impossible to construct (with rigorous proof), second there is no circle with exactly an integer diameter & integer circumstance (also this is proved rigorously), that doesn't necessarily imply its non existence or consistency in other "undefined" number line!?              
+
+A:
+
+This question is based on a misunderstanding. The statement that $\pi$ is constant has precise meaning: $\pi$ is a ratio of the length of circumference to the length of diameter. The statement that it is constant means that it is the same for all circles. (This statement is independent of the representation
+of this ratio with digits).  Contrary to what many people think, the Greeks had a proof of this. The proof is valid, and requires no modification. (The Greeks did not define the general notion of length, but in the case of circle their definition is consistent
+with the later general definition). By a number, the Greeks understood only integer or rational number, so from their point of view $\pi$ is not a number.
+But they had a completely rigorous notion of proportion which played the same role, and which is equivalent to the modern theory of real numbers.
+Representation of real numbers by infinite sequences of digits is a later invention. But it has nothing to do with the Greek theorem that the ratio of
+circumference to diameter is the same for all circles.
+

@@ -1,0 +1,33 @@
+Q:
+
+Language spoken during times of Ramayana and Mahabharata
+
+What was the day-to-day spoken language during the times of Ramayana (reign of Lord Rama) and Mahabharata?
+If I'm right both of these books were written in Sanskrit, and then were translated thousands of times in different languages but was Sanskrit the language the common folk used to converse in their day-to-day life? 
+If common folk used some other easy language was that similar to the language used by elites of the society ex: people living or working in the palace of kingdoms of that time.
+
+A:
+
+This is a very complex question.  I am not an expert, but here is my initial research:
+The earliest text of the Ramayana seems to be ~11th century CE, but it has been proposed that it predates the Mahabharata ~8th/9th century BCE, with the oldest surviving text fragments ~400 BCE.  
+Looking at the roots of Hindi I found Shauraseni and Apabhranśa...
+However, the Sanskrit wiki has a nice section on coexistence with vernacular languages:
+
+According to Sanskrit linguist Madhav Deshpande, when the term "Sanskrit" arose it was not considered a separate language, but rather as a particularly refined or perfected manner of speaking. Knowledge of Sanskrit was a marker of social class and educational attainment in ancient India, and the language was taught mainly to members of the higher castes through the close analysis of Vyākaraṇins such as Pāṇini and Patanjali, who exhorted proper Sanskrit at all times, especially during ritual. Sanskrit, as the learned language of Ancient India, thus existed alongside the vernacular Prakrits, which were Middle Indo-Aryan languages. However, linguistic change led to an eventual loss of mutual intelligibility. 
+A rock inscription at Junagadh added around 150 CE by Mahakshatrap Rudradaman I, the Saka (Scythian) ruler of Malwa, has been described as "the earliest known Sanscrit inscription of any extent", as the Ashokan and other early inscriptions were in Prakrit of various forms. This "unexpected resurgence as a language of contemporary record" is a sign of a "brahminical renaissance", which continued through the Gupta period, expanding the usage of Sanscrit.
+
+This led me to conclude:
+
+It seems not unlikely that the common language of the times was Prakrit, a term for any of several Middle Indo-Aryan languages formerly spoken in India.
+
+The Middle Indo-Aryan (MIA) stage in the evolution of Indo-Aryan languages is thought to have spanned more than a millennium between 600 BCE and 1000 CE, and is often divided into three major subdivisions.
+  
+The Middle Indo-Aryan languages are younger than the Old Indo-Aryan languages but were contemporaneous with the use of Classical Sanskrit, an Old Indo-Aryan language used for literary purposes
+
+It seems not unlikely that Old Indo-Aryan is the original linguistic source.
+
+The earliest evidence of the group is from Vedic and Mitanni-Aryan. Vedic has been used in the ancient preserved religious hymns, the foundational canon of Hinduism known as the Vedas. Mitanni-Aryan is of similar age to the language of the Rigveda, but the only evidence of it is a few proper names and specialized loanwords. The language of the Vedas - commonly referred to as "Vedic Sanskrit" by modern scholars - is only marginally different from reconstructed Proto-Indo-Aryan.
+From the Vedic, "Sanskrit" (literally "put together", meaning perfected or elaborated) developed as the prestige language of culture, science and religion, as well as the court, theatre, etc. Sanskrit is, by convention, referred to by modern scholars as 'Classical Sanskrit' in contradistinction to the so-called 'Vedic Sanskrit', which is largely intelligible to Sanskrit speakers.
+
+See also: the Fifth Veda
+

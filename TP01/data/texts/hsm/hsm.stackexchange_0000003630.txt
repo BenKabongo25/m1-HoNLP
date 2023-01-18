@@ -1,0 +1,21 @@
+Q:
+
+Did Leibniz use infinite numbers?
+
+Arthur's recent article
+Arthur, Richard T. W.
+Leibniz's actual infinite in relation to his analysis of matter.  G. W. Leibniz, interrelations between mathematics and philosophy,  137–156, 
+Archimedes, 41, Springer, Dordrecht, 2015
+was recently reviewed by Knobloch, who wrote in part:
+Despite his rejection of an infinite number and infinite collections, he admitted an actual, but syncategorematic, infinite. There is an infinity of things; that is, there are always more of them than can be specified. Secondly, Arthur refutes Rescher's two-tiered ontology and Russell's pseudo-dilemma. One has to distinguish between division and resolution, between composable, resolvable, and divisible. Arthur essentially bases his deductions on Leibniz's correspondence with Arnauld and de Volder. A body is actually divided into parts by its different motions, but resolved into unities. There are actually infinitely many monads. This infinite is understood syncategorematically. "There are actually infinite aggregates but—in contrast to Cantor—there are no infinite numbers" (p. 155).
+This seems surprising to me since Leibniz on many occasions spoke precisely of infinite numbers (while rejecting infinite collections). Have Arthur and Knobloch gotten it right?
+They don't fully address the distiction between infinite multitudes/wholes/collections, on the one hand, and infinite numbers, on the other. I haven't seen anything in Leibniz that would suggest that he thought that infinite numbers led to contradiction, and on the contrary Leibniz often exploits them as "useful fictions".
+In a recent article in HOPOS: History of Philosophy of Science we defend the thesis that Leibniz used infinite numbers galore. We also argue against the so-called syncategorematic interpretation first developed by Ishiguro allegedly following Russell (according to which Leibniz did nothing of the sort). See here.
+
+A:
+
+It appears that they are right in the "metaphysical" sense, here is a passage from Leibniz's letter to Bernoulli (1699):"I concede an infinite multitude, but this multitude forms neither a number nor one whole. It only means that there are more terms than can be designated by a number; just as there is for instance a multitude or complex of all numbers; but this multitude is neither a number nor one whole". The main problem for Leibniz was the violation of the part-whole axiom, an infinite whole would end up being equal to a proper part of itself, as in Galileo's example with natural numbers and their squares. 
+However, in On Some Relations between Leibniz’ Monadology and Transfinite Set Theory Friedman argued that Leibniz nonetheless accepted infinite wholes and numbers as useful fictions for calculation (he also saw imaginary roots and infinitesimals as useful fictions). In a letter to Des Bosses (1706) Leibniz wrote:"...properly speaking, an infinity consisting of parts is neither one nor a whole, and can only be conceived of as a quantity by a mental fiction".
+See more in van Atten's Note on Leibniz’s Argument Against Infinite
+Wholes.
+

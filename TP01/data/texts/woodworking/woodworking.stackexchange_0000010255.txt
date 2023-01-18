@@ -1,0 +1,14 @@
+Q:
+
+Joining MDF - Pocket holes vs dowels
+
+I will be making my first cabinet out of MDF, taking inspiration from a product I have seen, also made out of MDF.
+It won't be anything fancy, as you can see from the simple diagram of the join below.
+
+I know MDF is considered to be rather weak when it comes to joining at the edges, so I was wondering what the best method of joining pieces like this together? Pocket holes, dowels?
+
+A:
+
+MDF is different than normal wood, in that there is no end grain vs face grain.  Since MDF is all just basically sawdust combined with a resin, any surface is as strong as the other for gluing.
+It may well be that a properly glued, clamped, and cured joint may be plenty strong for what you want.  It will depend upon where the stress is being applied.  My guess is that with either dowels or pocket screws, the surrounding material will fail before the fastener will, so you can most likely get away with either.  Dowels will probably be slightly stronger, but more of a pain to do correctly.  Pocket hole screws will be much faster and not require clamping while the glue dries.
+

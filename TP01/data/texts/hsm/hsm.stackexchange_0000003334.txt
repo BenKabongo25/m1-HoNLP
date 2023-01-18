@@ -1,0 +1,31 @@
+Q:
+
+What is the most ancient milestone of mathematical reasoning or mathematical knowledge?
+
+I know about the Plimpton 322 tablet and Pythagorean triples. But can we be sure that this is the first instance of mathematical reasoning? I am talking about notions, propositions, or  questions about mathematics.
+I ask you if you can say what the milestone of mathematical reasoning or mathematical knowledge is, as accepted by the scientific community.
+I have two ideas as to what ancient notions of mathematics could be like. Let's say that humans were a band of Paleolithic hunters or gatherers. If the group gets $N$ items of food, then, leaving out social synergies, the appropriate distribution is the Euclidean division between the participants. If there are paintings of two animals in a cave, does this mean that Paleolithic men/women had the notion of the integer $2$? Are there scientific thoughts from the viewpoint of history of mathematics? 
+What is the first occurrence of mathematical reasoning or mathematical knowledge?
+
+A:
+
+To address this question, one has to define more precisely what "mathematical reasoning" is. When you start to count things, this already can be called "mathematical reasoning". And there is no doubt that this kind of mathematical reasoning is much older than the invention of writing. So it does not belong to history in the proper sense of this word, and there are no written records by definition. Therefore, it is impossible to say when "mathematical reasoning" really started.
+There are old Egyptian texts, like Rhind's Papyrus, and even older "Moscow Papyrus",
+dated roughly as 1850 BC. They certainly contain some sort of mathematical reasoning. Manipulation with integers and fractions, measuring of areas and volumes, as well as the fact that some numerical relations between side lengths of triangles imply a right angle, all this belongs to this kind of mathematical reasoning. The observation that some numbers are even and others are odd, and that the sum of even numbers is even, as well as the sum of two odd numbers,
+is also a mathematical reasoning. If one sheep exchanges for two widgets, then
+five sheep exchange for 10 widgets, this is also a mathematical reasoning, and it is certainly very ancient. 
+So mathematical reasoning is done practically by all humans and is probably as old as humankind itself.
+This has to be distinguished from Mathematics in the narrow sense. Mathematics as mathematicians understand it is a special kind of reasoning which involves proofs.
+As far as we know this was invented by ancient Greeks. There is no slightest evidence that this was invented anywhere else independently. No primary written record survives, but according to tradition which goes back to Hellenistic times,
+Thales and Pythagoras (or his disciples) in early 6 century BC are credited with this invention.  
+
+A:
+
+I agree that there are types of reasoning that have been in use for many millenia before writing and which could be described as "mathematical". 
+There are notions, such as transitivity, that seem fundamental to human reasoning.
+For example, suppose I owe Juan a share of the next mammoth hunt. If I give 
+Alexandre a mammoth steak and ask him to give it to Juan, then it is reasonable for me to expect my debt to Juan to have been fulfilled.
+Certain human transactions are commutative, others are not.
+I'll hazard a guess that certain kinship structures could be viewed as a type of mathematical reasoning. These relationships (e.g. incest taboos, marriage eligibility, inheritance, reciprocity etc.) have been in use for a very long time, and can involve some very intricate, sophisticated reasoning and
+analysis.
+

@@ -1,0 +1,11 @@
+Q:
+
+Why wear half face disposable respirator inside full face powered air respirator?
+
+I found this pic here. Aren't these Koreans overkilling by wearing half face disposable respirators, inside their 3M powered air respirators? Isn't a 3M powered air respirator enough? 
+
+A:
+
+Raymond J. Roberge (2008) discusses the rationale for concurrent use of N95 FFR masks and PAPR hoods. The primary benefit is to reduce the number of particles the wearer inhales, and secondarily to provide backup protection in the event of power loss in the PAPR.
+PDF link: https://www.ajicjournal.org/article/S0196-6553(07)00594-9/pdf
+

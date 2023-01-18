@@ -1,0 +1,32 @@
+Q:
+
+Etymology of "power" (math.)
+
+Having done some searches on the internet, seems like the term "power" is a mistranslation. The Wikipedia article links to an article in the MacTutor History of Mathematics archive where it is written
+
+The notation and terminology for powers and exponents is interesting. Power is first used for the square. Euclid uses the phrase in power , for example he says that magnitudes are commensurable in power when their squares are commensurable. Of course Euclid thought geometrically and the square to him was the geometrical square not a new number formed by multiplying the number by itself. Henry Billingsley, the first English translator of Euclid in 1570, makes the definition precise in his translation of Euclid's Second book:-
+  The power of a line is the square of the same line.
+
+Are these the intended meanings? For the first instance (concerning commensurability) -
+
+εὐθεῖαι δυνάμει σύμμετροί εἰσιν, ὅταν τὰ ἀπ᾽ αὐτῶν τετράγωνα τῷ αὐτῷ χωρίῳ μετρῆται
+
+I could not find the corresponding place in the Book 2 for Billingsley's  translation.
+I would translate "δυνάμει" in the above context as "potentially", which must be closely related to "δύνατον" ("possible") frequently used across Euclid's books. Cf. German "Potenz" for "power".
+Thus although "potence" is sort of a synonym for "power", that another meaning of potentiality is lost when using "power" I think.
+Is my interpretation correct? Are there any authoritative opinions on this?
+
+A:
+
+Comments
+The correct source is Euclid : Book X, Def.2.
+For δυνάμει, it is a word used in Aristotle : see Potentiality and actuality and Aristotle's Metaphysics : Actuality and Potentiality :
+
+the Aristotelian distinction between potentiality (dunamis) and actuality (entelecheia or energeia). This distinction is the main topic of Book $\Theta$.
+
+Thus, from the Greek dunamis to the Latin potentia and finally to power.
+We can transalte dunamei summetros as "potential commensurability" : two segments of lenght $1$ and $\sqrt 2$ are incommensurable but "commensurable in square".
+
+See this post on Aristotelian terminology, dynamis and entelechy for some comments on the multiplicity of meaning of dunamis.
+Thus, if dunamis stands for potentiality and capacity, it has some "nuances" that also power has : "ability to act or do".
+

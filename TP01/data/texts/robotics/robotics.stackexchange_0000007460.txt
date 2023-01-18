@@ -1,0 +1,21 @@
+Q:
+
+How to calculate quadcopter lift capabilities?
+
+I'm looking for an equation (or set of equations) that would allow me to predict (with fair accuracy) how heavy a payload a quadcopter is capable of lifting.
+I assume the main variables would be the weight of the copter as well as the size + power of the 4 rotors. What general approach can one use to make such a determination?
+
+A:
+
+Similar answer to this post:
+Choosing motor for a tricopter
+This depends on what you want to do with your copter.
+Hovering: 100-150 Watt/kg 
+ScaleFlight: 200-300 Watt/kg 
+Some chilling acrobatic flight: 350-400 Watt/kg
+3D acrobatics 500+ Watt/kg
+Hardcore 3D 1000 Watt/kg
+Just take your motors and your flight style and you got some values for the max weight of your copter
+I also have a source for this but i know only a German one: http://www.heli-planet.de/index.php?section=auslegung_von_e_motoren
+This values are pretty accurate. There are mathmatical ways to calculate the lift of your quadrotor but they are a very theoretical approach. You have to think about the enviorment, the wind, air pressure, reaction speed, controlability.
+

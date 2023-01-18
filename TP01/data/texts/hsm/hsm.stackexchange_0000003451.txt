@@ -1,0 +1,15 @@
+Q:
+
+What is the original source for Gelfand's problem on leading digits of the powers of 2?
+
+The question of the distribution of the leading digits of the sequence $2^n$ is called Gelfand's problem or Gelfand's question. Is there any source that indicates Gelfand's own work on this, or the exact context where it arose with him? 
+References I have looked at say the first place connecting Gelfand's name with this question is on p. 37 of Avez's book "Ergodic Theory of Dynamical Systems, Vol. 1," but this is not available to me. I tried searching the internet with some Russian terms that seemed relevant (вопрос гельфанда, распределение цифр) and nothing special came up.
+
+A:
+
+I assume that one of the sources is  MathWorld. But the question they claim Avez attributes to Gelfand is not the distribution of the leading digits generally, but specifically "will the digit 9 ever occur" as the leading digit in $2^n$ (the answer is yes, but the smallest $n$ is 54). They also link to Avez's 1966 book, which is their source. I was unable to access the book so far, but Eising, Radcliffe and Top in Simple Answer to Gelfand’s Question confirm that the problem is attributed in it to Gelfand, and add that Arnold-Avez's book published two years later replaced 9 by 7.
+So it appears that Avez is everybody's source for the attribution to Gelfand. What about Avez? Here is from Arnold's obituary:"Arnold spent  1965  in  Paris  as  a  postdoctorate  at the  Sorbonne.  At  the  request of  his  supervisor,  J.  Leray,  Arnold  delivered  a  one-semester  course  on  dynamical systems. The audience included many renowned mathematicians (Cartan, Douady,
+Fréchet, Godement, Leray, Schwarz, Serre, Thom). One of the participants, Andre
+Avez, recorded the lectures and then published them as a book". 
+I am going to speculate that Gelfand never published the problem, that Avez got it from Arnold's 1965 lectures, and Arnold, who was a student at the Moscow State University and took classes with Gelfand, did not need a publication to get it from Gelfand directly. In particular, Arnold gave multiple talks at Gelfand's seminar in 1964-65, handwritten notes (in Russian) are available online. On the other hand, Arnold-Avez do not attribute the problem (with 7) to anybody, so either Arnold forgot, or Avez misinterpreted his French in 1965, and the problem was Arnold's own. 
+

@@ -1,0 +1,25 @@
+Q:
+
+Why are dado sides not parallel?
+
+I'm trying to cut grooves, 5/8" deep and 1/2" wide (well, actually 15/32 because it's to fit plywood) in finished 2x4 stock (so, some kind of pine). I have a new set of stackable dado blades from Freud (so, sharp). I use a tall featherboard against the fence. Everything seems to be set up straight, and the bottom face of the groove has the correct width, but the opening is 0.5 to 1 mm wider, so the plywood fits loosely (picture slightly exaggerates the difference).
+What am I doing wrong?
+
+My setup:
+
+A:
+
+I believe that your fence is not perfectly aligned with the face of the dado blade.  The out of alignment will cause the groove at the table surface to be wider.  The deeper part of the grove will be narrower.
+
+As others have commented, first ensure that the dado blade is assembled properly and square to the arbor.
+Check the fence alignment at both the beginning and end of the cut against the tip of blade.  Distance A and B should be exactly the same.  Any deviation between A and B will produce the slanted wall of the groove you are describing.
+Make 2 or 3 multiple cuts versus one deep cut.  Pass the wood in the same direction.
+
+To check the alignment of the blade to the fence, raise the dado blade to the highest level.  With the blade at its highest, check that Distance A and B are the same.  With the blade at its highest, this will exaggerate any difference between Distance A & B.  Once A and B are equal, lower the blade to the proper depth.
+
+A:
+
+My guess is that when you stacked the blades and chippers, you didn't quite get them perfectly vertical, then when you tightened the nut down, it clamped them tight, but that one or the other of the outer blades isn't perfectly perpendicular to the table. I'd say it's especially likely to have happened if you've got any shims in the stack to get to your exact desired width. Since the shims are so thin, they can fall into the threads of the arbor and sit crooked.
+Raise the dado all the way up and use a square to check. You may have to rotate the blade up to 180° to find where it's out. My personal procedure is to unplug the saw before doing so, even though it's Really Tough™ to accidently hit the power switch. I'm kinda fond of my fingers.
+If that's the problem, loosen the locking nut, wiggle the blades a bit to get them to sit square and snug, make sure any shims are sitting squarely on top of the arbor threads (and haven't fallen into a thread) then hold the outer blade against the stack to keep them all tight while you get the nut finger tight. Then tighten the nut as appropriate with your wrenches. Double check with your square to ensure this setup is now properly squared.
+

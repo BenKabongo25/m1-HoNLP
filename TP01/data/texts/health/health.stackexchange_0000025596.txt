@@ -1,0 +1,14 @@
+Q:
+
+Local antibiotic injections to manage chronic bacterial infections
+
+Bacterial colonies in vivo develop biofilms that are hard to treat with oral/systemic antibiotics because their extracellular matrices - and, of course, the bacteria themselves - become resistant. I am writing this question with respect to Hidradenitis Suppurativa, a chronic disease that causes persistant lesions of bacterial infection.
+My question is, why not inject an antibiotic, such as gentamycin, locally: directly into a lesion, ensuring it penetrates the matrix?
+I have done lots of research but have found almost nothing supporting the idea of injecting an antibiotic locally; most articles and journals relate to filler injections (botox) gone wrong.
+
+A:
+
+I think you are imagining a biofilm to be like castle walls; once you've breached the walls, you have free access to the inside.
+A biofilm is more like a gelatin dessert. Even if you have a biofilm that is large enough to inject into, it will still be a barrier to free movement of the drug.
+There certainly is interest in local antibiotic delivery, the simplest of which is topical application, but it won't work quite the way I think you're envisioning it.
+

@@ -1,0 +1,16 @@
+Q:
+
+Why was the cubic specifically so hard to solve?
+
+I'm a huge fan of the history of Algebra and, recently, I've noticed a bit of an oddity. Degree one equations have been known (and solved) for as long as human history. For degree two equations, we have also known the general solution since many, many years BC, since pretty much the moment people have begun to actually study and develop mathematics.
+However, when it comes to the cubic, it took literal millennia for a solution to be found, only happening around 1500 AD in Italy. One would perhaps assume that the quartic would, therefore, take some considerable time to solve (maybe not millennia, since math's growth has been more or less exponential, but many years nonetheless). Not only was this not the case, the quartic was solved in the exact same timeframe as the cubic, with a couple years removed.
+So my question is: why did it take so long to solve the cubic when it took so little to solve the quartic?
+The solution of the cubic stuck around as an open problem for far longer than the other degree polynomial equations, and I just can't see a reason for this... Maybe the real question is "why was the quartic so easy to solve", which I am also curious about.
+Does anyone have any insights as for why this is, or any sources for further reading? I've read a few Math History books, but none of them could clarify my question.
+Thanks in advance!
+
+A:
+
+There is nothing special about cubic. I think the right question is: why the quadratic equations are much easier to solve than cubic and quartic? Well it's pretty obvious, is not it? Quadratic is indeed very easy to solve. There is a natural way to explain intuition behind the solution and there is nice geometrical interpretation. Cubic and quartic are just on the next level of difficulty.
+If you want a more deep answer, then I can argue that one needs symbolic algebra to solve cubic and  quartic, but to solve quadratic equation one doesn't actually need algebra (although today in schools we teach quadratic using algebra, Babylonians did not know algebra, but can solve problems that involves quadratic equations). It's not coincidence that symbolic algebra was developed in XVI century by the same people that contributed to solving cubic and quartic equations.
+

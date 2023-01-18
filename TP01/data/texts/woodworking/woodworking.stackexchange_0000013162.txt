@@ -1,0 +1,20 @@
+Q:
+
+How can I install an adjustable leveling support leg in a table?
+
+I'm building a big working table, and it has 4 legs of 90mmx90mm. I want to put some leveling mechanism that also protects the wood uneven floor.
+I found these pieces in Ali Express as I could not find anything in local shops (Diameter 80mm, thread 12x100mm):
+
+My question is, how do I install this in the wood?
+
+A:
+
+Here's what I'd do...
+Those leveler feet are often sold with T-nut fasteners. If not, you will also have to purchase appropriately sized T-nuts.
+Bore holes in the legs so that the threaded shafts will fit inside and install T-nuts in the bored hole. Turn the foot/threaded shaft to the desired height and tighten the nuts back against the T-nuts to lock the height.
+
+Image stolen from here via Google.
+Other options include leveler feet that screw on to the side of the legs like these available from Rockler (and a slew of other retailers) which look a little more robust and might be better suited to a heavy workbench-like table:
+
+Image stolen from Rockler.
+

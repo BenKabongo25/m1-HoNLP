@@ -1,0 +1,20 @@
+Q:
+
+What is the shortest paper in the history of mathematics?
+
+Now-a-days a research paper can have many pages (the paper claiming the proof of abc conjecture is of $500$ pages long!). But is there any paper in the history of mathematics which we can say as the shortest paper ever published in a well-known journal which has a remarkable impact? 
+
+A:
+
+There are many research announcements, sometimes containing few lines, so the question is not very meaningful. French Comptes rendus and old issues of AMS Bulletin have many papers of
+one page length or less. So they can be only compared by counting letters, and
+I do not think this counting is a reasnoable occupation.
+But if we are talking of serious papers, with complete proofs, and containing great discoveries, then this one is hard to beat:
+J. Milnor, Eigenvalues of the Laplace operator on certain manifolds,
+Proc. Nat. Acad. Sci. 51 N4, 1964, p. 542.
+It occupies substantially less than one page, including title, author and reference list. And it is really a great discovery, and frequently cited.
+
+A:
+
+After few searching I found this paper by L. J. Lander and T. R. Parkin on counterexample to Euler's conjecture on the sum of like powers. May be this is the shortest paper?
+

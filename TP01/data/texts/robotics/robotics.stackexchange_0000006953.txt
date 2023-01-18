@@ -1,0 +1,27 @@
+Q:
+
+How to calculate Euler Angles from gyroscope output?
+
+I am using a tri-axis accelerometer and tri-axis gyroscope to measure the linear acceleration of a body. I need to get the orientation of the body in euler form in order to rotate the accelerometer readings from the body frame into the earth frame. Please help I'm so stuck
+
+A:
+
+Look into a complementary filter. It isn't the correct way to go out this but it will give you usable data for attitudes around level. It's also worth mentioning that you will not be able to track yaw. There is no way to account for bias/noise with the two sensors you've listed.
+complementary filter:
+http://www.pieter-jan.com/node/11
+
+A:
+
+First you need to integrate the output from the gyro to get the actual X, Y and Z angles.
+angleX = gyroAngleX + gyroInputX
+angleY = gyroAngleY + gyroInputY
+
+However this value will drift over time so you will need to use a complementary filter or kalman filter. Personally, I would recommend a complementary filter because it is much simpler to implement.
+First you must find the angle from the accelerometer using a little bit of trigonometry.
+accelAngleX = atan2(accelY, accelZ) * 180/M_PI;
+accelAngleY = atan2(-accelX, sqrt(accelY*accelY + accelZ*accelZ)) * 180/M_PI;
+Then get the actual angle using this formula.
+angleX = 0.98*angleX + 0.02*accelAngleX
+angleY = 0.98*angleY + 0.02*accelAngleY
+The variables above must be the same variables used when calculating the gyro angle. The 0.98 and 0.02 can be tuned to get the best output, but they should always add up to one.
+

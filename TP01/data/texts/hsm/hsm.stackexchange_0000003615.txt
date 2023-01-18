@@ -1,0 +1,23 @@
+Q:
+
+Who was the first to say "Shut up and calculate!"?
+
+The best thing I could find on the internet was this apparently forgotten aricle from 12 years ago.
+
+A:
+
+Some centuries before Mermin, Leibniz in the 17th century was seeking a solution to some of the denominational quarrels that were plaguing his generation by envisioning a calculus ratiocinator that would make it possible for the quarreling parties to "sit down and calculate". A hypothetical science he envisioned was called Mathesis Universalis and included his infinitesimal calculus as a first stage.  See also Characteristica Universalis.
+
+A:
+
+Mermin has a thorough analysis[1] and traces the phrase to himself in a 1989 Physics Today column [2] & makes a strong case that the numerous attributions to Feynman are mistaken.
+[1] Could feynman have said this? / Mermin, Physics Today, 2004
+[2] What's Wrong with this Pillow? / Mermin, Physics Today, 1989
+
+A:
+
+N. David Mermin (born March 30, 1935, in New Haven, Connecticut, USA) is Horace White Professor of Physics Emeritus at Cornell University
+his quote was like this
+
+If I were forced to sum up in one sentence what the Copenhagen interpretation says to me, it would be 'Shut up and calculate!'
+

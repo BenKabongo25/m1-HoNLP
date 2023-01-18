@@ -1,0 +1,40 @@
+Q:
+
+What is the best finish for a laser etching on birch veneer plywood?
+
+I've done an etching on Birch veneer plywood for a piece of wall art and am trying to figure out the best way to finish it. It's a 24" x 24" Aztec Calendar design with a lot of intricacies.
+The guy who helped me with the etching had recommended either a danish oil or a polyurethane. I've been told Polyurethane is the best option if I don't want to change the wood at all, but I was leaning toward Danish oil since it would bring out the wood grain more. 
+I'd honestly like everything to be darker, but I'm not sure whether using Danish oil would also make the etched parts darker. My goal is to increase the contrast between the etched/non-etched parts, not reduce it.
+If anyone has experience in finishing a heavily etched design, please let me know what would achieve the best result.
+
+A:
+
+Why not make some smaller test pieces on some scrap pieces of the birch veneer plywood. Etch small but similar patterns. Then finish these test pieces to see which type of finish you like better and best achieves your objectives.
+Some part of asking for finishing advice is going to get you opinions based on other folks preferences. It is highly likely that your preferences may be very different!
+
+A:
+
+I've been told Polyurethane is the best option if I don't want to change the wood at all 
+
+That's not right, because "polyurethane" is a catch-all phrase for all clear finishes that include some polyurethane1 and only one type does little to change the wood's colour. 
+When someone just says "poly" they might mean one of at least three very distinct products that are really nothing alike (and unless the context makes it clear they should be more specific which one they're referring to). The poly that will alter the wood minimally is specifically waterbased polyurethane, but oil-based polyurethane is as common if not more so and like all oil-based varnishes it will noticeably deepen the tone of wood, as well as imparting some yellowish/amber colouring. 
+There is a third type of polyurethane, a two-part product mixed prior to application, but that's not a consumer-level finish and generally only a pro will be talking about that (and only to other pros).
+
+I'd honestly like everything to be darker
+
+All oil-based finishes will darken the wood to some degree. Although the inherent colour2 of the finish itself is a factor it's mainly down to the wood itself and how it absorbs the finish. 
+
+but I'm not sure whether using Danish oil would also make the etched parts darker. 
+
+I strongly suspect it will, but the right way to find out is to take an offcut or test piece and apply the finish(es) you have and see what you get.
+Recommendation
+I would steer you towards using oil-based polyurethane for this for a couple of reasons. Cards on the table, one reason is I'm against commercial "Danish oil" products as I've touched on in a few previous Answers3, but there's also a good practical reason to prefer varnish here. 
+Because "Danish oil" is a penetrating finish it's intended that all the excess is wiped away from the surface, which is going to be a real problem with something like this with all those nooks and crannies. Excess that isn't removed will not dry hard (ever) and will remain permanently gummy. 
+Varnish on the other hand is intended to be left on the surface and it dries hard, so you don't have to be nearly as careful about removing all the excess.
+Edit: one detail I forgot to add is it would be good to dilute the oil-based poly, which turns it into what's usually now called wiping varnish. Thinning helps in multiple ways, it makes oil-based varnish easier to apply, helps avoid application marks and generally in achieving a smooth finish, and also aids in getting consistent drying. 
+Read more about wiping varnish in this previous Answer. Do note specifically that you don't need to wipe on or wipe off wiping varnish despite its name — in your case I think using a roller both for application of for removal of excess would work best. I would specifically avoid using rags or foam brushes because of the potential for them to snag on the raised edges of the plywood which could pull off splinters of veneer.
+
+1 In most consumer-level finishes the polyurethane is only an additive, to improve scratch resistance, the finish isn't actually based on poly as the name seems to suggests. In actual fact oil-based polyurethane is mostly alkyd varnish (the more complete name for these varnishes is uralkyd) and with waterbased polys the finish is mostly a dispersion finish, e.g. acrylic.
+2 This is assuming uncoloured finish. There are coloured versions of both available, but assuming you're using the 'clear' version there is still a wide variation in colour. Generally "Danish oil" will be much darker because of the high oil content, while varnishes are generally pale (some very pale) because of the lower oil content and higher resin content.
+3 An equivalent can be made easily at home, starting with two products that are useful to have separately as well as mixed (BLO and gloss poly). You can tailor your own version to your own preferences and changing conditions (thinner or thicker, more or less varnish). Last but not least, the commercial stuff is overpriced for what it is (more than half of what's in the can is solvent!) and homemade versions should be significantly cheaper.
+

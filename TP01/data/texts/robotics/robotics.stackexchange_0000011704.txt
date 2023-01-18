@@ -1,0 +1,12 @@
+Q:
+
+What exactly does a motor driver do? Why do we need an additional power supply for motors?
+
+What exactly does a  motor driver do? Why do we need an additional power supply for motors? I'm a hobbyist and making a line follower from scratch.
+
+A:
+
+If a DC motor is being connected to something like a microcontroller's I/O, the I/O pins usually are only capable of supplying currents in the order of mA. Motors need much higher current to actuate themselves, so typically a motor driver is used. A motor driver is merely a current amplifier, even a push-pull transistor pair can be used to achieve that. Another function that motor drivers commonly perform is to isolate low power electronics from the high power supply that usually runs a motor. A more commonly used implementation is called an H-bridge: https://en.wikipedia.org/wiki/H_bridge
+If you're talking about stepper motors though, this becomes a more complicated process. Stepper motor operation involves attraction between rotor and stator magnets, and a reversal of stator poles is one of the things that takes place. But the motor winding, being a coil, usually has its own inductance, and high drive voltages are necessary to overcome this inductance and cause the reversal. Hence, stepper motor driver circuits are usually more complicated, which are responsible for both generating high voltages and also controlling current to each winding, making sure it doesn't exceed a certain value etc. 
+So mainly, any motor usually needs a driver circuit because its voltage/current requirements are different from the device that's trying to control it. 
+

@@ -1,0 +1,19 @@
+Q:
+
+Development of the symbol for the complement of the set B in A
+
+Complement of the set B in A is indicated as A\B (see$_1$). Is there any significance for this slanted version of the symbol? Who first introduced it?     
+
+Source: $_1$ Fundamental Concepts of Abstract Algebra by Gertrude Ehrlich.
+
+A:
+
+See ISO 31-11 part of  international standard ISO 31 (1992) that defines mathematical signs and symbols for use in physical sciences and technology :
+
+$A \setminus B$ : difference between $A$ and $B$; $A$ minus $B$. The set of elements which belong to $A$ but not to $B$.
+
+$A \setminus B = \{ x ∣ x ∈ A ∧ x ∉ B \}$
+$A − B$ should not be used.
+
+Originally was $A-B$; from Hausdorff (1927, 1937), Kuratowski (1933) and Bourbaki (1939-1957), to Halmos (1960) and Devlin (1979, 1993).
+

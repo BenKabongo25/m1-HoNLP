@@ -1,0 +1,47 @@
+Q:
+
+Who were some mathematicians who have a musical background?
+
+Who were some  mathematicians  who have a musical background ?
+I know  one mathematician , I see his video on you tube .He is  a tabla player + field medal winner.
+His name is  Manjul_Bhargava
+My question is that is there any other mathematician's who have a  musical background?
+Edit : here  Musical background   word  ...I mean that those who play musical instruments
+
+A:
+
+The MacTutor Article Mathematicians and Music provides an overview of this relationship.
+Amongst those mathematicians who were accomplished players and had performed in public, the article includes:
+
+Grassmann (piano, singer and choir master)
+Bolyai (violin)
+Maupertius (flageolet and guitar)
+De Morgan (flute)
+
+Mathematicians who were also composers with published works include:
+
+Herschel (also and accomplished violinist, hautboyist, organist, and conductor)
+
+Mathematicians who wrote on the subject of music and its analysis include:
+
+Sylvester
+Helmholtz (really a physicist)
+
+The article comments on the common belief that mathematicians tend to make good musicians, noting recent statistical analysis which suggests that:
+
+... in only about 2 per cent of the cases considered was there any appreciable correlation between talent for music and talent for mathematics; they found also that the percentage of males lacking in talent for music but showing a talent for mathematics was comparatively high, about 13 per cent.
+
+A:
+
+Einstein was a violinist, though I think he'd be the first to say he wasn't a musician.
+Eugenia Cheng is a mathematician who specialises in higher category theory. She is also a concert pianist specialising in Lieder and art song. She was awarded the Sheila Mossman Memorial award from the Associated Board of the Royal School of Music and was the first recipient of the Brughtin & Hove Arts Council award for the musician of the year.
+Interestingly, according to Wikipedia, Iannis Xanakis, a French-Greek  musician who incorporated mathematical modelling, such as stochastic processes and game and set theory into his compositions. Though, personally, I think this goes way back to Duchamp and his notion of 'found art'.
+
+A:
+
+Per Enflo  (see Wikipedia for a longer summary)
+concert pianist, mathematician (solutions for the basis problem, the approximation problem, the invariant subspace problem in Banach space theory )
+At a certain point in his life, he had to choose between the two.
+He reasoned that the likelihood of ever reaching the top as a concert pianist was small, compared to the same thing in mathematics.  He chose mathematics.  But throughout his life, despite being a professor of mathematics, he continued to do piano performances.  When I knew him (maybe 1980's) he still spent two hours a day practicing on the piano.
+The basis problem was placed in the Scottish Book by Banach.  The prize offered was a live goose.  Enflo did, indeed, receive the prize.
+

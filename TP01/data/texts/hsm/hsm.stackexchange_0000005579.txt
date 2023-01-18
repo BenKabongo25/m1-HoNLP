@@ -1,0 +1,53 @@
+Q:
+
+How did 19th century scientists estimate the age of the Earth
+
+Let me briefly recall the "Age of the Earth controversy". Based on the hypothesis that Earth was originally hot and cools down ever since, and using the data on the gradient of temperature currently observed near the surface (about 1 degree per 100 meters), Willian Thomson (Lord Kelvin) derived that it must take about 100 million years to cool to the present state, starting from the melting temperature of rocks). Later he revised his estimate to a smaller number.
+This theory, though completely mathematically sound gives the wrong answer because it does not take into account the heat source inside (radioactivity, which was not known at that time). Mathematics of Kelvin's theory is completely clear. But my question is different:
+I know from many popular science histories that Kelvin's estimate was hotly disputed by geologists and evolutionists, who all thought that Earth must be much older "to allow sufficient time" for geological changes and for evolution.
+My question is:
+
+How exactly did they estimate the time necessary for geological changes and evolution? How can you arrive with ANY numerical estimate of this sort?
+
+For example Darwin himself presumably had estimated the time necessary for evolution as 
+300 million years. But he removed this computation from the third edition of his book (Origin of species). As I only can find later editions, I cannot see what arguments he used to obtain his estimate.
+There were many other such estimates,
+for example, Samuel Haughton, a geologist, came with the lower estimate of
+2300 million years. What sort of arguments could all these scientists
+(I mean geologists and evolutionists) use to obtain their numerical estimates from below.
+
+A:
+
+In 1862, the physicist  Kelvin published calculations that fixed the age of Earth at between 20 million and 400 million years.[18][19]
+He assumed that Earth had formed as a completely molten object, and determined the amount of time it would take for the near-surface to cool to its present temperature. 
+This assumed initial condition was the linchpin for Kelvin's entire method .
+
+Bits of material at the surface would sink before solidifying, creating convection currents that kept the Earth at a uniform temperature until solidification began at the core.
+   (Hallam, 110; Knopf, 445).
+
+Kelvin needed to know:
+(1) the temperature at Earth's core,
+(2) the temperature gradient with regard to depth below the surface, and 
+(3) the thermal conductivity of rocks. 
+
+The gradient was established to be around one degree Fahrenheit for every fifty feet. Kelvin made his own measurements of conductivity. The problem was determining the temperature at the core. This is where Kelvin's theory of solidification enters the picture. Because the core was thought to be solid rock, its temperature could not exceed the melting point of rocks (Hallam, 110). He constructed the following equation:
+
+dθ / dx = S / h √(π t)
+
+The temperature gradient is expressed by dθ / dx; h is the thermal conductivity; x is the distance below the surface, and θ is the temperature (Holmes, 445).
+
+In 1862, Kelvin arrived at a likely age of 100 million years.
+ Because of uncertainties in the data, the lower and upper limits were 20 million and 400 million years (Dalyrmple, 26; Hallam, 111). 
+(According to modern biology, the total evolutionary history from the beginning of life to today has taken place since  3.5 billion  years.)
+
+In a lecture in 1869, Darwin's great advocate, Thomas H. Huxley, attacked Thomson's calculations, suggesting they appeared precise in themselves but were based on faulty assumptions.
+Other scientists backed up Thomson's figures. Charles Darwin's son, the astronomer George H. Darwin, proposed that Earth and Moon had broken apart in their early days when they were both molten. He calculated the amount of time it would have taken for tidal friction to give Earth its current 24-hour day. His value of 56 million years added additional evidence that Thomson was on the right track.[23]
+The last estimate Thomson(Lord Kelvin) gave, in 1897, was: "that it was more than 20 and less than 40 million year old, and probably much nearer 20 than 40".[25] In 1899 and 1900, John Joly calculated the rate at which the oceans should have accumulated salt from erosion processes, and determined that the oceans were about 80 to 100 million years old.[23]
+
+however modern estimates are-
+The first geologic time scale that included absolute dates was published in 1913 by the British geologist Arthur Holmes.[15] He greatly furthered the newly created discipline of geochronology and published the world renowned book The Age of the Earth in which he estimated Earth's age to be at least 1.6 billion years.[16] 
+
+References-https://en.wikipedia.org/wiki/Age_of_the_Earth#Early_calculations
+
+http://apps.usd.edu/esci/creation/age/content/failed_scientific_clocks/kelvin_cooling.html
+

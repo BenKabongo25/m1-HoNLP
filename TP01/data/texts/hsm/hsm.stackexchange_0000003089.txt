@@ -1,0 +1,11 @@
+Q:
+
+What are some concepts/discoveries in Mathematics and Science that found practical applicition years after they had been formulated/discovered?
+
+I'm looking for examples of ideas/discoveries/concepts in Maths or Science that had no practical application at first and were maybe considered as nothing but a theoritical concept but they turned out to be useful years after?
+I think that imaginary numbers may be such a thing - it's written on Wikipedia that "The name "imaginary number" was coined in the 17th century as a derogatory term, as such numbers were regarded by some as fictitious or useless." - and now they are very common in Physics and Maths, right? What about some other examples?
+
+A:
+
+I would probably say number theory, which had quite a lot of work on theorems regarding prime numbers that (as far as I know) did not get much use until the development of cryptography, such as the RSA algorithm from the 70's using Fermat's little theorem from the 1640's.
+

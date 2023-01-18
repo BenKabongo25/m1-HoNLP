@@ -1,0 +1,31 @@
+Q:
+
+Finish for MDF Worktable
+
+I built a thick worktable out of MDF and I'm looking to treat the surface. It's inside permanently but it should survive the occasional Oil/Water spill. Aesthetics don't matter. Can I just leave it raw?
+
+A:
+
+Get a piece of Masonite hardboard of the same size and tack it in place (shiny side up). This will give you a smooth surface which, while not permanent, is much more durable than the MDF. It will greatly increase the lifetime of the edges and corners, too.
+When the Masonite gets too dinged up, just replace it.
+
+A:
+
+It's inside permanently but it should survive the occasional Oil/Water spill.
+
+While the suggestion from @WhatRoughBeast in his Answer is a good one for the top (I've gone with sacrificial hardboard surfaces on both of the MDF workbenches I've made), we can see that more of your bench is made from MDF so other surfaces need to be considered.
+
+Can I just leave it raw?
+
+Leaving it bare is an option, especially if this is built from a moisture-resistant MDF1, but if not I think it would be a mistake not to coat it with something.
+Oil spills are basically not an issue with any MDF, but with the standard type every 'end grain' surface is particularly vulnerable to swelling if wet with water. The swelling can be bad, and while not exactly catastrophic except in the worst cases it's very unsightly and potentially could make the bench unstable. And if it happens on the edges of the top obviously that will no longer be flat.
+So if this is a basic MDF, as it appears to be from the photo, this will most definitely last you longer in better condition if coated in something waterproof.
+Suitable finish choices
+These include lacquer, varnish and paint2. Despite not being truly waterproof a penetrating finish such as "Danish oil", "Scandinavian oil" or the quite similar "teak oil" will do a reasonable job too (especially the last one, which tends to be heaviest in the varnish/resin component).
+Hardboard type
+If you do go with hardboard for the top, S2S material is available — this stands for smooth 2 sides, so once one surface is too dirty or chewed up to use you have a second surface ready to go as soon as you flip the sheet over.
+Regardless of whether you get double-sided or single-sided hardboard I would recommend getting a tempered type if you can find it, as they're more moisture-resistant and more durable (often significantly) compared to the untempered variety. If not identified as tempered this type of hardboard can be identified by its much smoother, possibly slightly glossy, surface. It's generally noticeably darker in colour too. You may still want to increase the resistance to water by applying some finish.
+
+1 Generically referred to as MR-MDF where I am, although various proprietary makes are this type too.
+ While some waterbased paints are waterproof most are at least slightly permeable to water (deliberately, it's not a flaw) so a traditional oil-based enamel paint would be the easier option here since they're all quite waterproof. This type of paint may be sold as "alkyd enamel" or similar, or mention alkyd on the label somewhere.
+

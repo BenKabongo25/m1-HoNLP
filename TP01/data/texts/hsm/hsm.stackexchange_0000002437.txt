@@ -1,0 +1,28 @@
+Q:
+
+What is Heaviside's version of Maxwell's equations?
+
+I have read, in many places, statements like this:
+
+Heaviside was able to greatly simplify Maxwell's 20 equations in 20
+  variables, replacing them by four equations in two variables. Today we
+  call these 'Maxwell's equations' forgetting that they are in fact
+  'Heaviside's equations'.
+
+... but nowhere can I find exactly what these equations look like in the form Heaviside produced. There are many versions of the equations, most with more than just four.
+(From this biographical article)
+Please can anyone tell me exactly what are the original "four equations in two variables"?
+
+A:
+
+This gives the four equations in the form Heaviside came up with:
+$$\varepsilon E = \rho$$
+$$\nabla \times E = - \mu \frac{\partial H}{\partial t}$$
+$$\nabla \cdot \mu H = 0$$
+$$\nabla \times H = k E + \varepsilon \frac{\partial E}{\partial t}$$
+
+where $E$ represents the electric field, $H$ represents the magnetic field, $\varepsilon$ is the permittivity, $\mu$ is the permeability, $\rho$ is the charge density, and $k$ is the conductivity.
+
+Here, $\times$ and $\cdot$ denote the cross product and dot product. Also, $H$ is not the same as the perhaps more commonly used $B$.
+Note: The first equation should properly be $\varepsilon \nabla \cdot E = \rho$, though the source leaves it out, probably due to a typo.
+

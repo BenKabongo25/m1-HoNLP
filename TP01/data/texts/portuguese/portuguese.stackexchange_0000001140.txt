@@ -1,0 +1,35 @@
+Q:
+
+Qual é a tradução de "statement" dentro do âmbito da programação?
+
+Estou montando um documento em português e preciso inserir um diagrama genérico, similar à imagem abaixo:
+
+Entretanto eu não sei como eu poderia traduzir a palavra "statement".
+Os tradutores online me sugeriram "afirmação", dentre várias outras palavras que algo me diz que no contexto atual não representam bem a minha intenção.
+Teria alguma palavra mais adequada para o cenário em questão?
+
+A:
+
+Em ciência da computação temos os termos em inglês statement, instruction, command, directive e declaration com significados diferentes. Nenhum deles tem o significado da palavra affirmation da língua inglesa. Todos estes termos podem ser traduzidos assim:
+
+affirmation → afirmação
+command → comando
+declaration → declaração
+directive → diretiva
+instruction → instrução
+statement → ??? 
+
+Aí chegamos no problema: Não há tradução direta para o termo statement no português! A tradução mais aproximada leva ao termo afirmação, mas este em português é inadequado na ciência da computação, uma vez que tem o mesmo significado de affirmation em inglês, que é um termo inadequado ao contexto no qual é empregado.
+Em geral, a tradução mais conveniente na minha experiência é como instrução, uma vez que em linguagens de programação imperativas, todos os statements são instructions e quase sempre em que o termo statement é utilizado, o objetivo é referir-se a uma instruction (inclusive no fluxograma demonstrado na pergunta). Nos casos onde o statement corresponde a um comando, diretiva ou declaração, tal termo seria utilizado.
+Nos casos aonde há ambiguidade ou generalização, de forma que statement não pode ser traduzido como instrução e nem se refere claramente a algum dos demais termos, convém então deixá-lo em inglês como statement.
+O termo afirmação não é correto porque uma afirmação consiste apenas de atestar a veracidade de um fato, o que não corresponde ao propósito usado em uma linguagem de programação imperativa, que é o de especificar que uma determinada ação deve ser efetuada.
+
+A:
+
+Eu pessoalmente uso "comando", cujo equivalente em inglês, "command", também pode ser usado nesse contexto. A Wikipédia parece concordar com esse uso (procure pela palavra "comando" nesse artigo). Uma outra possibilidade seria "instrução", mas ela possui a desvantagem de poder ser confundida com instruções de programas de linguagem de máquina, que são menos expressivas.
+
+A:
+
+No seu comentário você disse que cada statement "pode ser uma linha contendo cálculo, chamada de função, declaração, inicialização de variáveis, outputs". No âmbito de programação isso é uma instrução. Pode não ser a tradução mais literal, mas é um termo bastante utilizado e facilmente reconhecido pelos programadores.
+E mais: não que o Google Tradutor seja uma fonte 100% confiável, mas vale observar que ele traduz "statement" como "declaração", mas traduz "SQL statement" como "instrução SQL".
+

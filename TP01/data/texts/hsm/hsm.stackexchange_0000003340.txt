@@ -1,0 +1,18 @@
+Q:
+
+Is Gauss the first who introduced congruences?
+
+I have read Disquisitiones Arithmeticae and I have read somewhere that he introduced the concept of congruence with this book. 
+Wasn't this concept already used by other Mathematicians in the past?
+
+A:
+
+Gauss was anticipated by Euler by about fifty years, however his notation and terminology were somewhat more rudimentary, and he did not publish his work. The ideas are contained in Euler's Tractatus de Numerorum Doctrina (Treatise on the Doctrine of Numbers) that he started writing around 1750 but never finished, it was only published posthumously in 1849, long after Disquisitiones Arithmeticae. In it Euler defined "residue" with respect to an integer $d$ as the remainder from the division by it, noted that integers are thereby divided into $d$ classes, with all numbers in a class regarded as “equivalent” (unlike Gauss Euler does not have a symbol for this equivalence). He then defined arithmetical operations on classes and showed that they are preserved by assigning the residue to its number. Other algebraic ideas also appear in the manuscript, in particular Euler shows that residues relatively prime to $d$ have multiplicative inverses, and uses what is now called coset argument in group theory to prove a generalization of the little Fermat theorem to non-prime $d$ (sometimes called the totient theorem). Euler's residue classes are of course what Gauss called congruence classes, but some modern textbooks (e.g. Rosen's Elementary Number Theory) still use the terms residue and residue class. See detailed commentary in Katz's History of Mathematics (19.1.3).
+Two numbers being congruent can be expressed in terms of divisibility or remainders, so a lot of prior work could be converted into the language of congruences once Gauss introduced it. Pythagorean even-odd argument, Chinese remainder theorem, Little Fermat theorem, etc. use arguments now associated with congruences. However, to say that Pythagoreans, Sunzi or Fermat already had a "concept" of congruence would be misleading, it would be like saying that ancient Greeks already used polynomials, limits and integrals by other names. The kind of abstraction of classes, equivalence and algebraic manipulations that went into the concept of congruence as Gauss presented it in Disquisitiones Arithmeticae (and Euler somewhat anticipated) was a major new step, not contemplated and probably unnatural in earlier times.
+
+A:
+
+Yes, the idea of congruences is due to Gauss. Case closed.
+Earlier mathematicians had to write out divisibility relations or full equations, without the convenience of the congruence notation that make divisibility relations look like (and can be manipulated as) equations from algebra.
+Why do you think it might have been introduced by someone earlier?
+

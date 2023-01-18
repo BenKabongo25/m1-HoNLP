@@ -1,0 +1,18 @@
+Q:
+
+Where does the name "geometric sequence" come from?
+
+On this and other Stack Exchange website, there have been question about the so-called geometric series, and where its name comes from. My problem is that most answers follow one of two different ideas.
+
+Either they show an ingenious, but obviously not ancient, picture that illustrates concrete examples of geometric series summation. 
+Or they make some reference to the middle of three consecutive terms in the sequence being the "geometric mean" of the other two.
+
+Well, I want to raise the question again, because neither of these prototype answers really explains where the use of "geometric" started, nor who (if known) came up with it.
+Any good explanation?
+
+A:
+
+The "why" is not clear. 
+The origin is with the Pythagorean School (see also: Archytas).
+The early extant souce seems to be Fragment 2 of the lost work of On Music of Archytas. 
+

@@ -1,0 +1,33 @@
+Q:
+
+How did Kepler "guess" his third law from data?
+
+It is amazing that Kepler determined his three laws by looking at data, without a calculator and using only pen and paper. It is conceivable how he proved his laws described the data after he had already conjectured them, but what I do not understand is how he guessed them in the first place. 
+I will focus in particular on Kepler's third law, which states that the square of the orbital period of a planet is proportional to the cube of the semi-major axis of the orbit. 
+I assume that Kepler was working with data about the planets only, plus our own moon, and the sun. I make this assumption because I don't think Kepler had data about other moons, comets, or asteroids, which had not been observed by telescope yet. If this is true, knowing that Neptune, Uranus, and Pluto were not yet discovered when Kepler was alive, this means Kepler had less than 9 data points to work with.
+My friend claims that it is totally concievably how Kepler guessed this relationship (although he provides no method of how Kepler might have done it), and also that Kepler's observations are "not that hard".  As a challenge, I gave my friend a data table with one column labeled $x$, the other $y$, and 9 coordinates $(x,y)$ which fit the relationship $x^4=y^3$. I said "please find the relationship between $x$ and $y$", and as you might expect he failed to do so. 
+Please explain to me how in the world did Kepler guess this relationship working with so few data points. And if my assumption that the number of data points Kepler had at his disposal is small, is wrong, then I still think its quite difficult to guess this relationship without a calculator. 
+
+A:
+
+You can read Kepler's Harmonia Mundi (there is an abbreviated English translation, but it includes that part.)
+Kepler was looking for all kinds of numerical relations for many years (most of his life).
+Most of the relations he found in Harmonia Mundi are accidental and are of no value for modern science.
+I agree with your friend, that given 6 pairs of numbers (5 planets were known +Earth), after some trials one could discover
+the 3-d law. (There were more striking discoveries of this sort in history of science,
+for example Balmer's series, which is even more impressive than the Third law).
+Kepler's greatest achievement was the First Law. This was really one of the greatest breakthogh's in the whole history of science. And he described himself in great detail all steps which he made to discover this. Including all mistakes that he made. This description is in his Astronomia Nova. And there is also an
+English translation, complete! 
+So you can follow each step that he made. If you have time and patience.
+Logarithms were just invented when Kepler was writing Astronomia Nova.
+The third Law was discovered 10 years later. If you plot logarithms of periods against
+logarithms of distances, you get a straight line. So it would be surprising if someone
+knowing the data and logarithms, and trying to discover some relation missed this:-)
+
+A:
+
+I agree that it is amazing and a credit to Kepler's insight into numerical patterns, which is reminiscent of Euler's. It took Kepler extra 12 years to discover the third law after discovering the first two, perhaps exactly because of the comparative scarcity of data points. 
+According to Kepler, after years of searching for additional patterns on March 8 of 1618 a "marvelous" idea suddenly "appeared" in his head, that "the proportion between the periodic times of any two planets is precisely one and a half times the proportion of the mean distances". In other words, he conceived of what we would call a linear log log fit between mean distances and periods. It didn't fit though... at first, because of a computational error. But on March 15 the idea "came" to him again, and he got the computations right. 
+A plausible speculation is that Kepler got his miraculous inspiration from reading Napier's 1614 work on logarithms at the end of 1616. It is unlikely that he used graphs or plots but if he converted mean distances and periods into their logarithms using Napier's tables the constant proportionality ratio of $1\frac12$ between the two would have been noticeable. His account suggests however that he first conceived of a pattern in this form, and only then did the computations. He later wrote his own book about logarithms (published in 1621), and used them in computations for Rudolphine Tables.
+A word of caution on Kepler's self reporting though. He told a breathtakingly fascinating story of discovering the first two laws in Astronomia Nova. But... "recent research, especially that of William H. Donahue, has shown that the account Kepler offers his readers is not a true history of the course of his research--something Kepler never claimed--but is rather a didactic or rhetorical pseudohistory", see Voelkel's book.
+

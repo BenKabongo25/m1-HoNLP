@@ -1,0 +1,25 @@
+Q:
+
+Why does the statute mile have the length that it has?
+
+Why was our (statute) mile established as it was?
+This happened in 1593, by the order of Elizabeth I which said:
+
+"A Mile ſhall contain eight Furlongs, every Furlong forty Poles, and every Pole ſhall contain ſixteen Foot and an half." It was thus 1760 yards (5280 feet, about 1609 meters)
+
+(Citation from Wikipedia). The question is why 8 furlongs? Why forty poles, etc.
+I conjecture that this was based on some very crude measurement of the Earth circumference,
+and the mile was supposed to be 1' of the meridian.
+Indeed, as late as in 1667 Newton thought that one degree =60 miles, and as a result, that the gravitational force inversely proportional to the square of the distance cannot alone explain the Moon's orbit. (Based on Wiston's recollections of conversations with Newton, cited in
+http://books.google.com/books?id=xIkn3eFNy20C&printsec=frontcover#v=onepage&q&f=false this book.
+Nautical  mile is indeed one minute of the meridian.
+And kilometer was originally defined as one "decimal minute" (400 degrees in a circle, 100 minutes in a degree).
+I conclude that Elizabeth's statute was based on some very imprecise measurement of the meridian. Which measurement? 
+Remark. Is this not amazing that we are still using this mile established in XVI century on the basis of a wrong measurement? 
+
+A:
+
+The OED writes this:
+"Originally: the Roman unit of distance of 1000 paces (mīlle passus or passuum), reckoned to have been about 1618 yards (approx. 1479 metres). Hence: a unit of distance derived from this used in the British Isles and in other English-speaking countries, and now equal to 1760 yards (approx. 1609 metres). Frequently with a prefixed numeral forming a phrase used attributively.The length of the mile has varied considerably at different periods and in different localities, chiefly owing to the influence of the agricultural system of measures with which the mile has been brought into relation (see furlong n.). It was fixed by statute at 1760 yards (viz. 8 furlongs of 40 poles, each pole being 16½ feet) in 1592 (Act 35 Eliz. I, c. 6, s. 8), and in Britain is also called a statute mile. This is also the legal mile in the United States. The obsolete Irish mile was 2240 yards (approx. 2048 metres), and the Scottish mile (obsolete by the late 19th century) was 1976 yards (approx. 1807 metres) although values probably varied according to time and place."
+This suggests that the mile is originally a military term, a round counting of the paces of marching soldiers, and is not based on a calculation of the size of the earth. Educated Romans were presumably aware of Eratosthenes' rather accurate measurement of the earth's circumference, but it seems unlikely that this should have filtered down to military usage.
+

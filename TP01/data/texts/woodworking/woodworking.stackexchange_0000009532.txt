@@ -1,0 +1,13 @@
+Q:
+
+Cribbage Peg Slot Metal Slider/Cover?
+
+I am making a cribbage game board and need assistance finding the best way to create or find the peg slot metal slider or cover.
+I have been looking for the metal slides to cover the peg board slot on cherry board with no luck.  Anyone know where can I find those or ideas for a similar sort of cover?
+
+A:
+
+Have been looking for the metal slides to cover the peg board slot on the board I made out of cherry.
+
+Cribbage boards come in a huge variety of styles (consider this large-mouth bass board), and I don't recall seeing two that had the exact same peg storage covers, so I think you'll have a hard time sourcing those covers as a separate part. Since you probably just need one or two, I think your best bet is to make your own. McMaster-Carr is a good source for all sorts of metal stock, but look around your house or your local big box store for candidates: the blade of an old butter knife or spatula might make good raw material.
+

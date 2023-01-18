@@ -1,0 +1,20 @@
+Q:
+
+First appearance of the term sinus cardinalis
+
+Who introduced the term sinus cardinalis? I do not mean the abbreviation sinc, which was introduced 1952 by Woodward.
+
+A:
+
+According to sources quoted in Wikipedia's sinc "talk" page, 
+
+The name sinus cardinalis dates back by Edmund T. Whittaker in 1915,
+  where he named the bandlimited or most simple function of a family of
+  cotabular functions (sharing a function table, i.e., values at equally
+  spaced sample points) the cardinal function of this family. One would
+  have to check if he already named the basis functions or if that came
+  later. See A History of interpolation.--LutzL (talk)
+
+Following that "talk" link leads to a history page  which includes an image from that paper, From E. T. Whittaker, "On the Functions which are Represented by the Expansions of Interpolation-Theory", Proceedings of the Royal Society of Edinburgh, vol. 35, 1915, pp. 181-194  
+ 
+

@@ -1,0 +1,10 @@
+Q:
+
+What is the wheel base distance of the create2?
+
+What is the wheel base distance that should be used for the create2 to calculate angle? I have seen 230.8mm in code samples but the manual seems to indicate 235.0 mm.
+
+A:
+
+Use the values from the OI Spec.  These are pulled from the CAD and are accurate up to manufacturing tolerances.  I am guessing the values that you see in code samples are left over from the old Create.
+

@@ -1,0 +1,26 @@
+Q:
+
+Who discovered the magnetic vector potential, $\vec{A}$?
+
+Neither Maxwell’s fundamental differential equations on electromagnetism nor Einstein’s first papers considered the magnetic vector potential A. 
+So who discovered, formulated or used A for the first time?
+
+A:
+
+Franz Ernst Neumann was the first¹ to write down the magnetic vector potential in his 1845 paper "General laws of induced electrical currents." He used it to write the equation summarizing Faraday's induction experiment (Faraday's law).
+The original paper:
+
+F. E. Neumann, “Allgemeine Gesetze Der Inducirten Elektrischen Ströme,” Annalen Der Physik 143, no. 1 (January 1, 1846): 31–44, doi:10.1002/andp.18461430103.
+
+Neumann's Dictionary of Scientific Biography entry says this:
+
+Neumann and his contemporary Wilhelm Weber were the founders of the electrodynamic school in Germany, which later included, among others, Riemann, Betti, Carl Neumann, and Lorenz. The investigations and analyses of this group were guided by the assumption, held originally by Ampère, that electromagnetic phenomena resulted from direct action at a distance rather than through the mediation of a field. Neumann’s major contributions were contained in two papers published in 1845 and 1848, in which he established mathematically the laws of induction of electric currents. The papers, transmitted to the Berlin Academy, were entitled “Allgemeine Gesetze der inducirten elektrischen Ströme” and “Ober ein allgemeines Princip der mathematischen Theorie inducirter elektrischer Ströme.”
+As a starting point Neumann took the proposition, formulated in 1834 by F. E. Lenz after Faraday’s discovery of induction, that the current induced in a conductor moving in the vicinity of a galvanic current or a magnet will flow in the direction that tends to oppose the motion. In his mathematical analysis Neumann arrived at the formula $E.Ds =—ν C.Ds$, where $Ds$ is an element of the moving conductor, $E.Ds$ is the elementary induced electromotive force, $v$ is the velocity of the motion, $C.Ds$ is the component of the inducing current, and $∊$ is a constant coefficient. With this formula Neumann was able to calculate the induced current in numerous particular instances. At present a common formulation is $E = — dN/dt$, where $E$ is the electromotive force generated in the circuit through which the number of magnetic lines of force is changing at the rate of $dN/dt$.
+Continuing his analysis Neumann noticed a way in which the treatment of currents induced in closed circuits moving in what is now termed a magnetic field might be generalized. He saw that the induced current depends only on the alteration, caused by the motion, in the value of a particular function. Considering Ampère’s [force] equations for a closed circuit, Neumann arrived at what is known as the mutual potential of two circuits, that is, the amount of mechanical work that must be performed against the electromagnetic forces in order to separate the two circuits to an infinite distance apart, when the current strengths are maintained unchanged. In modern notation the potential function, $Vii'$, is written:$$Vii'=-ii'\iint\frac{\mathbf{ds}\cdot\mathbf{ds'}}{r}.$$
+Continuing his analysis Neumann noticed a way in which the treatment $\mathbf{ds}.\mathbf{ds'}$ is the scalar product of the two vectors $\mathbf{ds}$ and $\mathbf{ds'}$, and $r$ their distance apart. If a fixed element $\mathbf{ds'}$ is taken and integrated with respect to $\mathbf{ds}$, the vector potential of the first circuit at the point occupied by $\mathbf{ds}$ is obtained. Maxwell arrived at the concept of vector potentials by another method and interpreted them as analytical measures of Faraday’s electrotonic state.
+
+References
+
+André Koch Torres Assis, Weber’s Electrodynamics (Dordrecht; Boston: Kluwer Academic, 1994), §5.2 ("Franz Neumann"), pp. 122-5.
+Maxwell used the "magnetic vector potential" (what he called the "electromagnetic momentum") in his A Dynamical Theory of the Electromagnetic Field (Scientific Works vol. 1 p. 555-556). $\mathbf{E}$ is $(P,Q,R)$ and $\mathbf{A}$ is $(F,G,H)$ in Maxwell's notation.
+

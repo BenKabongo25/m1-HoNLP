@@ -1,0 +1,14 @@
+Q:
+
+When and by whom was the earliest definition of speed given?
+
+Speed is defined to be distance divided by time; when and who by was this definition first put forward? 
+The obvious guess would be Galileo in early modern physics; is this right, and can it be pushed further back?
+
+A:
+
+Aristotle (Physics, Book VII, Chapter 5) made use of the concept of speed in his laws of motion written around 330 BC.
+He said that a force which moves a mass a distance D in time T will move half the mass twice the distance in the same time.
+While the result of his equation is not correct where the force is gravity (he was concerned with preserving proportionality), it and his other rules of motion indicate that he employed the concept of average speed.
+See this summary:  http://faculty.poly.edu/~jbain/mms/lectures/15.GalileoMotion.pdf
+

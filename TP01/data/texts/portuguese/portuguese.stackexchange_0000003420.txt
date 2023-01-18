@@ -1,0 +1,36 @@
+Q:
+
+Por que uma sessão de fotografia é chamada de "ensaio" fotográfico?
+
+Que eu saiba, e pelo que os dicionários confirmam, um “ensaio” é um teste, um treino, algo feito de forma não definitiva. Mas o estranho é que é comum ver sendo dito pela mídia que “artista tal fez um ensaio fotográfico com alguém ou de algum jeito”. 
+Mas por que “ensaio”? Qual o sentido desse termo para uma sessão fotográfica? 
+
+A:
+
+O ensaio do ensaio fotográfico vem, por via algo convoluta, de ensaio no sentido de ‘esboço literário ou científico’ (Periberam 7) e quase de certeza por influência do inglês photo essay. O dicionário Houaiss (Lisboa, 2003) dá uma definição mais completa de ensaio neste sentido:
+
+9 LIT prosa livre que versa sobre tema específico, sem esgotá-lo, reunindo dissertações menores que as de um tratado formal, feito em profundidade < ensaio sobre a violência >
+
+Ainda segundo o Houaiss, esta aceção de ensaio é uma extensão, por influência do inglês essay (Oxford 2), do sentido ‘tentativa, coisa não definitiva’. Ora, ensaio fotográfico começou por ser uma adaptação desta noção de ensaio literário a trabalhos compostos sobretudo por fotografias. Isto foi provavelmente uma simples adaptação do inglês photo-essay (Merriam-Webster):
+
+a group of photographs (as in a book or magazine) arranged to explore a theme or tell a story [um conjunto de fotografias (tal como num livro ou revista) organizadas para explorar um tema ou contar uma história (tradução minha)]
+
+Photo-essay já é usado pelo menos desde 1944 (Merriam-Webster). Ensaio fotográfico não encontrei em nenhum dicionário, mas a expressão já é usada no sentido original, conjunto de fotografias sobre um tema, pelo menos desde 1971, neste exemplo na revista Manchete:
+
+Podem ver aqui na revista Rua (1996) um ensaio fotográfico completo. A introdução começa assim (ênfase minha em todas as citações):
+
+O ensaio fotográfico que segue resulta do projeto "Fauna e flora urbana", desenvolvido em conjunto pelo Laboratório de Estudos Urbanos da Unicamp (Labeurb) e pelo Núcleo de Fotografia de Campinas (NFC). As imagens mostram áreas verdes e aves de Campinas e região.
+
+Encontram-se várias dezenas de referências a ensaio fotográfico no sentido original no Google Books. A grande maioria são oriundas do Brasil, mas também se encontram algumas de Portugal, como:
+
+Perlman, Izhar. 1999. A Magia de Sintra/The Magic of Sintra: Ensaio Fotográfico/A Black and White Photographic Essay. Cascais: Azula. [Referência na Rede de Bibliotecas de Lisboa]
+
+Os primeiros exemplos que encontrei no Google Books de ensaio fotográfico no sentido de sessão fotográfica são de 2012 (reproduzo um exemplo mais abaixo). O que parece ter acontecido foi que ensaio fotográfico passou a designar, não só o álbum fotográfico temático, mas também as sessões de fotografia que lhe deram origem. Esta transição foi possivelmente facilitada porque nalguns contextos a expressão pode ser ambígua, como neste trecho Eduardo Buzzinari Ribeiro de Sá, Pai de Menina: Bem-Vindo ao Mundo Cor de Rosa, 2015, onde ensaio fotográfico é talvez mais facilmente interpretado como álbum, mas onde a interpretação como sessão, principalmente na segunda ocorrência, também é plausível:
+
+Outro hábito reincidente no repertório gestacional, além de ficar alisando o umbigo toda hora para conferir se está estufando, é a mania de fotografar. […] E vale a pena investir num ensaio fotográfico para registrar esse momento mágico e adorável na vida do casal. Mágico? Adorável? Será mesmo? Se as fotos do álbum de gestante tivessem legendas, será que estariam de acordo com os sorrisos e poses ali reproduzidos? Ficou curioso? Vamos então colocar uma escuta secreta nos bastidores do ensaio fotográfico e conferir o que rola depois do clique da câmera. Quer ouvir?
+
+Já em Raimundo Salles Rocha, Dois Pais Brasileiros, 2012, «ensaio fotográfico» pode ainda,com boa vontade, ser interpretado como álbum, mas a interpretação como sessão já é a mais natural:
+
+Tentava parecer natural, mas sentia-se amedrontada como o cão diante da explosão de fogos. […] Tudo era sugestivo para o nervosismo de uma principiante. Nesse instante, o fotógrafo que estava centrado na correção da máquina fotográfica aproximou-se e disse-lhe:
+  — O primeiro grande segredo para o sucesso de uma iniciante em um ensaio fotográfico, é assumir perante todos que está nervosa.
+

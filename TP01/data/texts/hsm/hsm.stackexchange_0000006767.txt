@@ -1,0 +1,16 @@
+Q:
+
+How did Aristotle influence Euclid?
+
+In other words, how is Aristotle's logic represented in Euclid's Elements?
+I have read many articles where Euclid's Elements is linked to Aristotle's logic, but I do not understand, and I can't find any examples explaining how deductive logic (i.e. syllogism) or laws of thought or any other work from Aristotle could have influenced the development of geometry and the concepts Euclid came up with when writing his book.
+
+A:
+
+You are right: syllogisms are not used by Euclid. More generally: “Although Aristotle emphasized the use of syllogisms as the building blocks of logical arguments, Greek mathematitians apparently never used them.” (I am quoting from A History of Mathematics, by Victor J. Katz (3rd edition)).
+The infuence of Aristotle on Euclid lies elsewhere. Quoting from the same source: “If one accepts the premises of a syllogism as true, then one must also accept the conclusion. One cannot, however, obtain every piece of knowledge as the conclusion of a syllogism. One has to begin somewhere with truths that are accepted without argument. Aristotle distinguishes between the basic truths that are peculiar to each particular science and the ones that are common to all. The former are often called postulates, and the latter are known as axioms.” I suppose that you recognise in this description the way Euclid's Elements are written.
+
+A:
+
+As Simpson clearly states in the section "Aristotelian logic" of his article, principle 3 is the law of excluded middle: $P \vee \neg P$ is true. Euclid's Elements indeed rely on classical logic rather than intuitionistic logic.  There have been attempts recently to rewrite Euclid in an intuitionistic framework; see e.g., the work of Michael J. Beeson.
+

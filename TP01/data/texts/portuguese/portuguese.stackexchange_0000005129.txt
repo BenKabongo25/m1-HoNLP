@@ -1,0 +1,20 @@
+Q:
+
+How to use dialogue punctuation in Portuguese?
+
+What is the right punctuation for this dialogue (direct speech) in Portuguese?
+
+EN: "I am John," he said. "Who are you?"
+PT: "Eu sou John", disse el. "Quem é Você?"
+
+I know I'm supposed to delete the double quotes and use (em or en) dashes instead, but I'm not sure how many of them I need or where to place them.
+
+A:
+
+You use long dashes to initiate the dialogue and to separate the dialogue from other elements. You do not use a dash at the end of a paragraph, the paragraph break concludes the speaking:
+
+— Eu sou John – disse ele – Quem é você?
+  — Chamo-me Maria.
+
+If you have a good eye you'll notice that the lengths of the dashes are slightly different. In high quality typography where, additionally, typographers may want to use thinner spaces around the larger ones, three different dashes are used: - (hyphen) for enclitics, – (en-dash, or meia risca) for mid dialogue breaks and — (em-dash, or travessão) for initiating the dialogue. Most people will just use the em-dash all the time and not distinguish with the en-dash which is perfectly fine: the en-dash is only technically semantically distinguished for ranges.  Poor typography will replace them with two hyphens.
+

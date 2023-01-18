@@ -1,0 +1,13 @@
+Q:
+
+Does the mAh of a battery mean longer power or more power?
+
+If a Lipo battery has more mAh will it be slower to run out of energy or will it have larger power output?
+Thanks in Advance
+
+A:
+
+The battery capacity specification (eg X mAh) tells you that your battery can run for 1 hour providing X milliamps until it is depleted. This doesn't always scale with time, for example you probably won't run for 1/2 hour if you draw 2*X milliamps, but this is another discussion.
+To answer your question, a greater mAh will allow you to use your battery for longer before it depletes, in terms of current draw.
+However, for the same battery model, the C-rating ($C$)(the maximum current you can safely, constantly draw from the battery) stays constant. Thus, since it is defined as $I_{max} = C \cdot X$, higher C-ratings will also allow you to draw higher instantaneous currents, hence more power.
+

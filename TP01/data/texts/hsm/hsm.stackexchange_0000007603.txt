@@ -1,0 +1,13 @@
+Q:
+
+Reference - Schwarz's Proof of Clairaut's Theorem
+
+Where can I find a copy (online) of Schwarz's paper that proved Clairaut's theorem for mixed partial derivatives? His paper is: Schwarz, H. A., "Communication", Archives des Sciences Physiques et Naturelles, v. 48 (1873), p. 38-44.
+
+A:
+
+You can download  the journal here:
+https://www.biodiversitylibrary.org/bibliography/5919#/summary
+There are also Collected works of Schwarz:
+https://archive.org/details/gesammeltemathem02schwuoft
+

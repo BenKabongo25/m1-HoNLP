@@ -1,0 +1,13 @@
+Q:
+
+What is the best drill bit for MDF?
+
+I want to drill holes in MDF of varying thicknesses, laid out to sub millimetre precision. In other words, I need the positioning of the center of the holes to be accurate to within a half millimetre (0.5mm or 0.02 inch) or better.
+My problem is that I can't decide whether MDF is considered a wood or a grain free composite material. So would it be best to use brad point wood bits with centre punched holes as in woodwork, or HSS bits with pilot holes as in metalwork? Or anything else?
+
+A:
+
+The brad point is the way to go.
+Whenever you are making precisely located holes you should always use a bushing or jig of some type if you can.
+Of course, making jigs is time consuming. One quick and dirty alternative is to use what is called a "tap guide" which is a block of steel with standard sized holes in it. Get a set of transfer punches and put the fitting punch in the hole you want in the guide and move it around until the punch settles into the center punch divot. Clamp the tap guide to the work and drill.
+

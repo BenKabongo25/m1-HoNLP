@@ -1,0 +1,27 @@
+Q:
+
+Why is kg the standard unit for mass and not g in SI?
+
+Why is $\mathrm{kg}$ the standard unit for mass and not $\mathrm{g}$?
+I know that there is the kilogramme des Archives which is a kilogram and not a gram. But originally on April 7, 1795 the gram was defined as 
+
+The absolute weight of a volume of pure water equal to the cube of the hundredth part of the metre, and at the temperature of melting ice. 
+
+What is the reason that they switched to the $\mathrm{kg}$ when using the kilogramme des Archives? Perhaps it was easier to make and less sensitive to mistakes? Are there other reasons?
+To clarify why I think this is weird: The other six standards, namely metre, second, ampere, Kelvin, mole and candela don't have a SI prefix when used as standard unit. 
+
+A:
+
+The kilogram is the base unit of mass because electrical engineers in the late 19th century chose a particular set of practical electrical units. Their practical units were a success, and we are still using them today: ohm, volt, and ampere. In 1881 the International Electrotechnical Commission (IEC) created two sets of units: a set of theoretical units, and a set of practical units. The theoretical electrical units, abampere, abvolt, abohm were coherent with the mechanical  units cm, g, s. Coherence in this case primarily means that electrical energy and mechanical energy have identical units: $V\cdot I\cdot t = F \cdot L$. Unfortunately, the abvolt and abohm were inconveniently small. On the other hand, the practical electrical units, ampere, volt, and ohm, were not coherent with cm, g, s, nor with m, g, s. However, by coincidence they were coherent with m, kg, s. That is why the kilogram was chosen as the base unit of mass in the SI system, in 1960.
+
+A:
+
+Why is kg the standard unit for mass and not g?
+
+Tongue in cheek answer: Because a foolish consistency is the hobgoblin of little minds?
+More seriously, none of the immediate predecessors of the SI bothered to have all of their base units be consistent with the prefix-free units. Gauss proposed a millimeter-gram-second system in the 1830s. Maxwell and Thomson modified this to a centimeter-gram-second system in the 1860s. There was a lot of infighting over the electromagnetic units in those CGS systems. Giorgi proposed yet another system in 1901, the meter-kilogram-second-ampere system. This system is the immediate predecessor to the current International System.
+
+What is the reason that they switched to the kg when using the kilogramme des Archives? Perhaps it was easier to make and less sensitive to mistakes? Are there other reasons?
+
+You have it backwards. The original concept of mass by the French revolutionaries working on the metric system was the mass of a liter of water. This unit of mass was to be called the grave. French scientists worked on making this realizable (the mass of a volume water turned out not to form a good basis). The Republican government that followed the French Revolution thought this grave was too big for practical uses, so they invented the gramme as the mass of a milliliter of water. The work on the grave prototype continued, only now this would be called the kilogram prototype.
+

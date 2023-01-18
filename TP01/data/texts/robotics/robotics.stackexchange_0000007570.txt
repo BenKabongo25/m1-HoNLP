@@ -1,0 +1,53 @@
+Q:
+
+Homogenous Transformation Matrix for DH parameters
+
+I'm studying Introduction to robotic and found there is different equations to determine the position and orientation for the end effector of a robot using DH parameters transformation matrix, they are :
+
+Example: Puma 560, All joints are revolute
+Forward Kinematics:
+Given :The manipulator geometrical parameters.
+Specify: The position and orientation of manipulator.
+Solution:
+
+For Step 4:
+
+for step 3 :Here I'm confused 
+Here we should calculate the transformation matrix  for each link  and then multiply them to get the position and orientation for the end effector.
+I've seen different articles using one of these equations when they get to this step for the same robot(puma 560)
+What is the difference between them? Will the result be different? Which one should I use when calculating the position and orientation?
+
+A:
+
+Given a robotic arm, if you derive homogeneous transformation matrix for it , it will be equal to one of the above mentioned equations. 
+Those equations are the basic scenarios for reaching the end point, any robotic arm will satisfy one of the three equations .
+The equations simply mean the order of manipulations carried out by the arm.
+A translation along x axis followed by a rotation 
+Or 
+A rotation followed by a translation .
+If you observe the equations you can notice that there can be two consecutive translations but not rotations. 
+These are the basic scenarios, however for a custom robot the equations can be different 
+For example,let us consider a robotic arm with a revolute base followed by  prismatic joint, and another revolute joint
+The scenario of this robot is 
+rotation->translation->rotation. 
+If another robot has a prismatic base, revolute joint, and again a prismatic joint, the equation would look like
+translation->rotation->translation
+So, it depends on the robotic arm that you are working on. But these are the basic situations to understand that sometimes translation is followed by rotation or vice versa, or two consecutive translations but no consecutive rotations. If you understand these equations, you can build your own using them.
+Additional info:
+After reading back and forth in my robotics and modelling book, i forgot to tell you one thing in DH notation matrices. 
+The Transaltion matrices Trans(z,d), Trans (x,a) are identity matrices with just one vale in the last column.
+1 0 0 0
+0 1 0 0
+0 0 1 d
+0 0 0 1
+
+and 
+1 0 0 a
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+So, they dont change the overall result even if they are multiplied before or after the rotation matrices. 
+I used the second equation to calculate transformation matrix for puma 560 in a java program. It was perfect. 
+I hope this clears your confusion, sorry for the delay.
+

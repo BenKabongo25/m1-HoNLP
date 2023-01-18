@@ -1,0 +1,22 @@
+Q:
+
+How to make Handrail Transitions with Rotation?
+
+We removed the old handrail that was not up to code and didn't reach the first step of the stairs as required.  We have a traditional guardrail installed on one side and we are having difficulties trying to find a good method of continuous transition on the other side, that has a wall angled 45 deg away with the first two steps. The handrail needs to terminate on the first step, not near the third.
+Since we have traditional handrails, we can't make a simple miter cut because the short piece's top orientation will start to point away from the wall. With circular handrails, this is not a problem as there's not top/bottom.
+How can we get a good/decent transition?
+Stair slope: 41.5 deg
+Inner angle of walls: 135 deg leveled (following the handrail path, the inner angle becomes 145 deg)
+
+Stairs
+
+Trouble wall
+
+Example cut showing rotation needed to remain upright and proper distance
+
+Traditional handrails being used.
+
+A:
+
+I believe a perfect matchup is not possible, but you may get close if the joint line cut is full vertical and has equal 22.5/67.f degree angles on each piece. Note that since the short piece changes direction, its slope descending the stairs will be shallower. This means that the vertical angle of the cuts and overall height will differ between the 2 pieces. A little work using a file should get you an acceptable appearance. Align the top and hide the differences at the underside. For me, this cut would definitely involve several mockup tests.
+
